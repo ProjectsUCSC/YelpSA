@@ -1,2 +1,2 @@
 # YelpSA
-Sentimental analysis on reviews alone to generate restaurant ratings 
+To perform sentence level sentimental analysis on reviews to generate restaurant ratings .
