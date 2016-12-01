@@ -13,5 +13,5 @@ The Data used for this project is available here : https://drive.google.com/driv
 #How to run :
 1. clone 
 2. refer main.ipynb for sample implementation
-3. change the path of data files in pre_processing.py to data set's location
+3. change the path of data files in pre_processing.py(line 124 and 125) to the dataset's local location.
 4. implement your own code !
