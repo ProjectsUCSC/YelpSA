@@ -120,9 +120,9 @@ def get_data_label(data):
 def preprocess():
     
     #Read datasets
-	
-    data = pd.read_csv("C:\Users\shubhangi\Documents\GitHub\YelpSA\lib\Data\yelp_academic_dataset_review.csv")
-    business_data = pd.read_csv("C:\Users\shubhangi\Documents\GitHub\YelpSA\lib\Data\yelp_academic_dataset_business.csv")
+	#Add your path here
+    data = pd.read_csv("../Data/yelp_academic_dataset_review.csv")
+    business_data = pd.read_csv("../Data/yelp_academic_dataset_business.csv")
     business_id = business_data[:][['business_id','categories','review_count']]
     
     #Merge datasets on key
