@@ -95,7 +95,7 @@ def predict(X_test, w, prior):
     return pred, prob_normal
 
 def pred_ternary(X_test, w, prior):
-    pred, prob_normal = predict(X_test, w, prior)
+    pred, prob = predict(X_test, w, prior)
     pred[pred < 3] = 0
     pred[pred == 3] = 1
     pred[pred > 3] = 2
@@ -108,7 +108,7 @@ def pred_ternary(X_test, w, prior):
 
 def pred_binary(X_test, w, prior):
     
-    pred, prob_normal = predict(X_test, w, prior)
+    pred, prob = predict(X_test, w, prior)
     pred[pred < 3] = 0
     pred[pred == 3] = 1
     pred[pred > 3] = 1
