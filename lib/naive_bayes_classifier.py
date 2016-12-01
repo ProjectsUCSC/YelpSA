@@ -44,6 +44,7 @@ def train(X, y, no_classes):
     return w
 
 def prob_calc(X_test,w):
+	no_features = len(X_test[0])
     prob =  np.ones((len(X_test),5))
     for index in range(5):#5 classes
         for review in range(len(X_test)): #no of test reviews
