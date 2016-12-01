@@ -59,7 +59,7 @@ def prob_calc(X_test, w, prior):
         for review in range(len(X_test)): #no of test reviews
             for feature in range(no_features): #features
                 if(X_test[review][feature] == 0.0):
-                    continue
+                    prob[review][index] = prob[review][index] * (1-w[index][feature]) 
                 else:
                     prob[review][index] = prob[review][index] * (w[index][feature] * X_test[review][feature] )
 
@@ -76,8 +76,7 @@ def prob_calc(X_test, w, prior):
 def predict(X_test, w, prior):
     prob = prob_calc(X_test,w, prior)
     pred = np.zeros(len(X_test))
-    for i in range(len(prob)):
-        pred[i] = prob[i][:].argmax(axis=0)+1
+    pred = (np.argmax(prob, axis=1)+1)
         
     prob_normal = np.zeros((len(prob),1))
     inf = float("inf")
