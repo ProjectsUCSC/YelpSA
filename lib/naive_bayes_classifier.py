@@ -51,7 +51,7 @@ def train(X, y, no_classes):
         w[3][i] = (sum_freq4 + 1.0) /  (total_class4+no_features+1)
         w[4][i] = (sum_freq5 + 1.0) /  (total_class5+no_features+1)
     return w, prior
-
+    
 def prob_calc(X_test, w, prior):
     no_features = len(X_test[0])
     prob =  np.ones((len(X_test),5))
@@ -59,6 +59,7 @@ def prob_calc(X_test, w, prior):
         for review in range(len(X_test)): #no of test reviews
             for feature in range(no_features): #features
                 if(X_test[review][feature] == 0.0):
+                    #continue
                     prob[review][index] = prob[review][index] * (1-w[index][feature]) 
                 else:
                     prob[review][index] = prob[review][index] * (w[index][feature] * X_test[review][feature] )
@@ -76,7 +77,10 @@ def prob_calc(X_test, w, prior):
 def predict(X_test, w, prior):
     prob = prob_calc(X_test,w, prior)
     pred = np.zeros(len(X_test))
-    pred = (np.argmax(prob, axis=1)+1)
+    print prob.shape
+    #pred = (np.argmax(prob, axis=1)+1)
+    for i in range(len(prob)):
+        pred[i] = prob[i][:].argmax(axis=0)+1
         
     prob_normal = np.zeros((len(prob),1))
     inf = float("inf")
@@ -86,11 +90,15 @@ def predict(X_test, w, prior):
             prob_normal[i]=1
         else:
             prob_normal[i]=prob[i][pred[i]-1]/normalizer
+            if(prob_normal[i] > 1):
+                print prob[i][:]
     
     for i in range(len(prob)):
         if math.isnan(prob_normal[i]):
             prob_normal[i]=0
-    
+    max =  np.max(prob, axis=1)
+    print prob[max <0]
+    print len(max[max<0])
     return pred, prob_normal
 
 def pred_ternary(X_test, w, prior):
@@ -99,9 +107,8 @@ def pred_ternary(X_test, w, prior):
     pred[pred == 3] = 1
     pred[pred > 3] = 2
     return [pred, prob]
-
-def pred_binary(X_test, w, prior):
     
+def pred_binary(X_test, w, prior):
     pred, prob = predict(X_test, w, prior)
     pred[pred < 3] = 0
     pred[pred >= 3] = 1
