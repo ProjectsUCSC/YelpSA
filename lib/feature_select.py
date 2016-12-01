@@ -40,7 +40,7 @@ def feature_selection(labels, data_sample_copy):
         for key in wordCount.keys() :
              wordCount[key] /= float(len_data[j])
         j = j+1
-        wordCount = wordCount.most_common(700)
+        wordCount = wordCount.most_common(1000)
         #print "u",type(wordCount)
         for k in range(len(wordCount)):
             wordCount[k] = wordCount[k][0]
@@ -52,7 +52,7 @@ def feature_selection(labels, data_sample_copy):
         print "unigrams", len(new_vocab)
         #Obtain bigram count and choose top 150 bigrams
         words = re.findall("\w+", data_sample_string)
-        req_bigrams = Counter(izip(words, islice(words, 1, None))).most_common(150)
+        req_bigrams = Counter(izip(words, islice(words, 1, None))).most_common(500)
         #print "b", req_bigrams
         for k in range(len(req_bigrams)):
             req_bigrams[k] = req_bigrams[k][0][0] + " " + req_bigrams[k][0][1]

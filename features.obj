@@ -1,2828 +1,5078 @@
 (dp0
-S'good food'
+S'limited'
 p1
 I0
-sS'chain'
-p2
-I18
 sS'really good'
-p3
+p2
 I2
-sS'place would'
-p4
-I3
-sS'lack'
-p5
-I4
-sS'hot'
-p6
-I5
 sS'four'
-p7
-I6
-sS'one thing'
-p8
-I7
-sS'manager'
-p9
-I8
+p3
+I3
 sS'asian'
-p10
+p4
+I4
+sS'poorly'
+p5
+I5
+sS'never going'
+p6
+I6
+sS'waitress came'
+p7
+I81
+sS'get better'
+p8
+I8
+sS'every'
+p9
 I9
-sS'capital grille'
-p11
+sS'chocolate cake'
+p10
 I10
-sS'go'
-p12
+sS'food really'
+p11
 I11
-sS'hate'
+sS'look'
+p12
+I12
+sS'school'
 p13
 I13
-sS'seemed'
+sS'right next'
 p14
-I15
-sS'make sure'
+I14
+sS'big burrito'
 p15
-I93
-sS'wine list'
+I15
+sS'us would'
 p16
-I787
-sS'certainly'
+I16
+sS'food cold'
 p17
 I17
-sS'chinese'
+sS'red'
 p18
-I1
-sS'disgusting'
+I1426
+sS'enjoy'
 p19
 I19
-sS'finally'
+sS'good good'
 p20
 I20
-sS'big fan'
+sS'bacon'
 p21
 I21
-sS'dressing'
+sS'chef'
 p22
 I22
-sS'sorry'
+sS'likely'
 p23
 I23
-sS'friendly'
+sS'fabulous'
 p24
-I25
-sS'sent'
+I180
+sS'also really'
 p25
-I26
-sS'definitely recommend'
+I25
+sS'food arrived'
 p26
-I27
-sS'staff always'
+I26
+sS'mexican restaurant'
 p27
-I28
-sS'woman'
+I27
+sS'even'
 p28
-I29
-sS'years ago'
+I28
+sS'enchiladas'
 p29
-I30
-sS'worse'
+I29
+sS'cooking'
 p30
-I31
-sS'made'
+I30
+sS'took hour'
 p31
-I862
-sS'returning'
+I31
+sS'new'
 p32
-I207
-sS'far'
+I32
+sS'pad thai'
 p33
 I33
-sS'dessert'
+sS'ever'
 p34
 I34
-sS'mediocre best'
+sS'told'
 p35
 I35
-sS'choice'
+sS'pancakes'
 p36
-I366
-sS'three stars'
-p37
-I36
-sS'worst'
-p38
 I37
-sS'awful'
-p39
+sS'never'
+p37
+I38
+sS'dining area'
+p38
 I39
-sS'fan'
-p40
+sS'fresh ingredients'
+p39
 I40
-sS'minute'
-p41
+sS'china'
+p40
 I41
-sS'cool'
-p42
+sS'mac cheese'
+p41
 I42
-sS'entire'
-p43
+sS'saturday night'
+p42
 I43
-sS'school'
-p44
+sS'another shot'
+p43
 I44
-sS'hour'
-p45
+sS'dry'
+p44
 I45
-sS'desserts'
-p46
+sS'kids'
+p45
 I46
-sS'die'
-p47
+sS'food served'
+p46
 I47
-sS'list'
-p48
+sS'items'
+p47
 I48
-sS'friendly staff'
+sS'changed'
+p48
+I49
+sS'nice enough'
 p49
-I303
-sS'try'
+I1431
+sS'would say'
 p50
 I51
-sS'would definitely'
+sS'slices'
 p51
-I625
-sS'walked'
+I52
+sS'explained'
 p52
-I933
-sS'get food'
-p53
-I898
-sS'right away'
-p54
 I53
-sS'small'
-p55
+sS'highly'
+p53
 I54
-sS'guy'
-p56
+sS'brought'
+p54
 I55
-sS'spent'
-p57
-I692
-sS'enjoy'
-p58
+sS'meats'
+p55
+I56
+sS'us table'
+p56
 I57
-sS'pork'
-p59
+sS'waited waited'
+p57
 I58
-sS'says'
-p60
+sS'hot fresh'
+p58
 I59
-sS'come back'
-p61
-I865
-sS'tea'
-p62
+sS'would'
+p59
+I60
+sS'food pretty'
+p60
 I61
-sS'bacon'
-p63
+sS'brown rice'
+p61
 I62
-sS'japanese'
-p64
-I390
-sS'sign'
-p65
+sS'negative'
+p62
+I63
+sS'good bad'
+p63
 I64
-sS'past'
-p66
+sS'music'
+p64
 I65
-sS'dish'
-p67
-I236
-sS'second'
-p68
+sS'recommend'
+p65
+I66
+sS'worth wait'
+p66
 I67
-sS'street'
-p69
-I68
-sS'one star'
-p70
+sS'care'
+p67
+I589
+sS'type'
+p68
 I69
-sS'fast food'
-p71
+sS'tell'
+p69
 I70
-sS'eating'
+sS'best burger'
+p70
+I71
+sS'glass'
+p71
+I72
+sS'warm'
 p72
-I794
-sS'n'
-p73
-I632
-sS'casual'
-p74
 I73
-sS'beer selection'
-p75
+sS'excellent'
+p73
 I74
-sS'drinks'
-p76
+sS'hole'
+p74
 I75
-sS'even'
-p77
-I444
-sS'sausage'
-p78
+sS'hold'
+p75
 I76
-sS'chicken salad'
-p79
+sS'must'
+p76
 I77
-sS'sub'
+sS'bartender'
+p77
+I442
+sS'room'
+p78
+I79
+sS'like came'
+p79
+I1463
+sS'work'
 p80
-I78
-sS'cooking'
-p81
 I80
-sS'crust'
+sS'worth'
+p81
+I7
+sS'first time'
 p82
-I81
-sS'find'
+I82
+sS'good nothing'
 p83
-I489
-sS'waiting'
+I83
+sS'give'
 p84
-I84
-sS'indian'
-p85
 I85
-sS'shared'
+sS'honey'
+p85
+I86
+sS'best chinese'
 p86
-I87
-sS'pad thai'
+I1359
+sS'veggies'
 p87
 I88
-sS'ever'
+sS'want'
 p88
 I89
-sS'place great'
+sS'times'
 p89
-I90
-sS'filled'
+I1436
+sS'wanted go'
 p90
-I91
-sS'told'
-p91
-I404
-sS'fish sandwich'
-p92
 I92
-sS'long time'
-p93
-I823
-sS'full'
-p94
+sS'end'
+p91
 I94
-sS'cozy'
-p95
+sS'wait long'
+p92
 I95
-sS'pancakes'
-p96
+sS'turn'
+p93
 I96
-sS'never'
-p97
-I97
-sS'french'
-p98
+sS'sitting'
+p94
+I884
+sS'gluten free'
+p95
 I98
-sS'service horrible'
+sS'hot'
+p96
+I558
+sS'tasted good'
+p97
+I100
+sS'disappoint'
+p98
+I36
+sS'bad meal'
 p99
-I143
-sS'potato pancakes'
-p100
-I636
-sS'busy'
-p101
-I493
-sS'let'
-p102
 I102
-sS'mac cheese'
-p103
+sS'pizza'
+p100
 I103
-sS'good though'
-p104
+sS'mess'
+p101
 I104
-sS'along'
-p105
+sS'place even'
+p102
 I105
-sS'quite'
-p106
-I331
-sS'saturday night'
-p107
+sS'wrong'
+p103
+I106
+sS'salsa'
+p104
 I107
-sS'wait'
-p108
-I108
-sS'box'
-p109
-I615
-sS'great'
-p110
+sS'third'
+p105
+I109
+sS'vegetarian options'
+p106
 I110
-sS'kids'
-p111
+sS'appreciate'
+p107
 I111
-sS'daughter'
-p112
+sS'lost'
+p108
+I1604
+sS'green'
+p109
 I112
-sS'perfectly cooked'
-p113
-I113
-sS'items'
-p114
-I635
-sS'employees'
-p115
+sS'great prices'
+p110
+I929
+sS'order'
+p111
 I115
-sS'changed'
-p116
+sS'wine'
+p112
 I116
-sS'experience'
-p117
+sS'office'
+p113
+I117
+sS'rock bottom'
+p114
 I118
-sS'credit'
-p118
+sS'pizza place'
+p115
 I119
-sS'amount'
-p119
+sS'satisfied'
+p116
 I120
-sS'always friendly'
-p120
+sS'used love'
+p117
+I676
+sS'must try'
+p118
 I121
-sS'pick'
+sS'worst ever'
+p119
+I122
+sS'personal'
+p120
+I701
+sS'better'
 p121
 I123
-sS'usually'
+sS'new orleans'
 p122
 I124
-sS'opinion'
+sS'everything delicious'
 p123
 I125
-sS'would say'
+sS'weeks'
 p124
 I126
-sS'makes'
+sS'absolutely delicious'
 p125
 I127
-sS'options'
+sS'coffee'
 p126
 I128
-sS'cooked'
+sS'combination'
 p127
-I934
-sS'love'
+I129
+sS'great lunch'
 p128
 I130
-sS'family'
+sS'one worst'
 p129
 I131
-sS'extra'
+sS'bread'
 p130
-I16
-sS'prefer'
-p131
 I132
-sS'highly'
-p132
-I99
-sS'brought'
-p133
+sS'meat'
+p131
 I133
-sS'ask'
-p134
-I334
-sS'duck'
-p135
+sS'potatoes'
+p132
+I134
+sS'crunchy'
+p133
 I135
-sS'total'
-p136
+sS'never got'
+p134
 I136
-sS'standing'
-p137
+sS'good'
+p135
+I994
+sS'went'
+p136
 I137
-sS'use'
+sS'side'
+p137
+I249
+sS'mean'
 p138
 I138
-sS'takes'
+sS'pretty cool'
 p139
-I140
-sS'would'
-p140
-I141
-sS'food pretty'
-p141
-I142
-sS'hungry'
-p142
-I771
-sS'visit'
-p143
-I144
-sS'charge'
-p144
 I139
-sS'sports'
+sS'drinks food'
+p140
+I140
+sS'waffle'
+p141
+I141
+sS'actually pretty'
+p142
+I142
+sS'saturday'
+p143
+I143
+sS'ordered steak'
+p144
+I144
+sS'mashed potatoes'
 p145
 I146
-sS'creamy'
+sS'got'
 p146
-I244
-sS'live'
+I147
+sS'grease'
 p147
 I148
-sS'call'
+sS'given'
 p148
 I149
-sS'crab'
+sS'free'
 p149
 I150
-sS'recommend'
+sS'standard'
 p150
 I151
-sS'taken'
+sS'wanted'
 p151
 I152
 sS'greasy'
 p152
-I365
-sS'type'
-p153
-I154
-sS'tell'
-p154
-I155
-sS'today'
-p155
-I156
-sS'door'
-p156
-I157
-sS'pretty'
-p157
-I501
-sS'stay away'
-p158
-I159
-sS'evening'
-p159
-I649
-sS'started'
-p160
-I160
-sS'share'
-p161
-I161
-sS'local'
-p162
-I503
-sS'glass'
-p163
-I162
-sS'really great'
-p164
-I163
-sS'warm'
-p165
-I164
-sS'beers'
-p166
-I165
-sS'excellent'
-p167
-I384
-sS'olive'
-p168
-I166
-sS'ok'
-p169
-I806
-sS'next door'
-p170
-I679
-sS'glad'
-p171
-I169
-sS'must'
-p172
-I24
-sS'town'
-p173
-I170
-sS'grill'
-p174
-I32
-sS'none'
-p175
-I171
-sS'bartender'
-p176
-I172
-sS'room'
-p177
-I173
-sS'salad'
-p178
-I174
-sS'shame'
-p179
-I648
-sS'car'
-p180
-I176
-sS'work'
-p181
-I177
-sS'soul'
-p182
-I178
-sS'worth'
-p183
-I179
-sS'reviews'
-p184
-I180
-sS'soup'
-p185
-I181
-sS'anywhere'
-p186
-I38
-sS'bar area'
-p187
-I183
-sS'making'
-p188
-I185
-sS'good nothing'
-p189
-I114
-sS'corned beef'
-p190
-I187
-sS'beautiful'
-p191
-I129
-sS'give'
-p192
-I189
-sS'awesome'
-p193
-I191
-sS'food took'
-p194
-I192
-sS'high'
-p195
-I194
-sS'heard'
-p196
-I195
-sS'way'
-p197
-I842
-sS'something'
-p198
-I188
-sS'want'
-p199
-I197
-sS'drive'
-p200
-I891
-sS'keep'
-p201
-I685
-sS'onions'
-p202
-I200
-sS'garden'
-p203
-I201
-sS'usually get'
-p204
-I202
-sS'huge'
-p205
-I203
-sS'end'
-p206
-I204
-sS'sit'
-p207
-I205
-sS'rather'
-p208
-I206
-sS'sitting'
-p209
-I335
-sS'located'
-p210
-I209
-sS'amazing'
-p211
-I210
-sS'party'
-p212
-I668
-sS'place'
-p213
-I348
-sS'establishment'
-p214
-I212
-sS'walked away'
-p215
-I213
-sS'pizza'
-p216
-I214
-sS'service slow'
-p217
-I293
-sS'sandwich'
-p218
-I215
-sS'okay'
-p219
-I216
-sS'tried'
-p220
-I217
-sS'rude'
-p221
-I218
-sS'mess'
-p222
-I318
-sS'overall'
-p223
-I796
-sS'dive'
-p224
-I221
-sS'sour'
-p225
-I182
-sS'southern'
-p226
-I327
-sS'drive thru'
-p227
-I285
-sS'mac'
-p228
-I224
-sS'birthday'
-p229
-I347
-sS'coming'
-p230
-I226
-sS'waste'
-p231
-I611
-sS'appetizer'
-p232
-I403
-sS'authentic'
-p233
-I227
-sS'tomato'
-p234
-I228
-sS'short'
-p235
-I229
-sS'remember'
-p236
-I230
-sS'crowded'
-p237
-I231
-sS'maybe'
-p238
-I409
-sS'greek'
-p239
-I233
-sS'green'
-p240
-I234
-sS'waitress'
-p241
-I351
-sS'overcooked'
-p242
-I448
-sS'every'
-p243
-I238
-sS'egg'
-p244
-I239
-sS'order'
-p245
-I240
-sS'wine'
-p246
-I122
-sS'soggy'
-p247
-I241
-sS'waste time'
-p248
-I242
-sS'bowl'
-p249
-I663
-sS'years'
-p250
-I245
-sS'went lunch'
-p251
-I246
-sS'course'
-p252
-I247
-sS'attitude'
-p253
-I248
-sS'mistake'
-p254
-I641
-sS'including'
-p255
-I249
-sS'looks'
-p256
-I250
-sS'mentioned'
-p257
-I252
-sS'cold'
-p258
-I254
-sS'still'
-p259
-I255
-sS'style'
-p260
-I256
-sS'group'
-p261
-I257
-sS'gave us'
-p262
-I258
-sS'appetizers'
-p263
-I259
-sS'expectations'
-p264
-I260
-sS'actually'
-p265
-I261
-sS'better'
-p266
-I262
-sS'felt like'
-p267
-I906
-sS'quite good'
-p268
-I263
-sS'spot'
-p269
-I222
-sS'visiting'
-p270
-I543
-sS'happened'
-p271
-I266
-sS'coffee'
-p272
-I267
-sS'good'
-p273
-I268
-sS'return'
-p274
-I269
-sS'food'
-p275
-I270
-sS'well worth'
-p276
-I271
-sS'delivered'
-p277
-I914
-sS'lunch'
-p278
-I273
-sS'two stars'
-p279
-I275
-sS'half'
-p280
-I276
-sS'front'
-p281
-I277
-sS'day'
-p282
-I279
-sS'bread'
-p283
-I280
-sS'several'
-p284
-I669
-sS'meat'
-p285
-I282
-sS'worst service'
-p286
-I634
-sS'potatoes'
-p287
-I168
-sS'year old'
-p288
-I284
-sS'food ever'
-p289
-I637
-sS'stopped'
-p290
-I286
-sS'rock'
-p291
-I287
-sS'found'
-p292
-I288
-sS'went'
-p293
-I289
-sS'side'
-p294
-I646
-sS'mean'
-p295
-I291
-sS'heavy'
-p296
-I292
-sS'everyone'
-p297
-I294
-sS'another'
-p298
-I666
-sS'needless'
-p299
-I296
-sS'house'
-p300
-I297
-sS'fish'
-p301
-I298
-sS'hard'
-p302
-I299
-sS'ambiance'
-p303
-I300
-sS'idea'
-p304
-I301
-sS'potato salad'
-p305
-I302
-sS'food bad'
-p306
-I49
-sS'sports bar'
-p307
-I304
-sS'entree'
-p308
-I306
-sS'expect'
-p309
-I883
-sS'year'
-p310
-I307
-sS'girl'
-p311
-I308
-sS'chain restaurant'
-p312
-I309
-sS'saturday'
-p313
-I310
-sS'special'
-p314
-I907
-sS'really'
-p315
-I311
-sS'large'
-p316
-I312
-sS'never came'
-p317
-I313
-sS'sent back'
-p318
-I940
-sS'open'
-p319
-I658
-sS'since'
-p320
-I316
-sS'looking'
-p321
-I317
-sS'may'
-p322
-I219
-sS'fried rice'
-p323
-I319
-sS'grits'
-p324
-I320
-sS'got'
-p325
-I321
-sS'issue'
-p326
-I324
-sS'red'
-p327
-I325
-sS'food great'
-p328
-I326
-sS'go way'
-p329
-I730
-sS'also good'
-p330
-I86
-sS'friday'
-p331
-I328
-sS'little'
-p332
-I369
-sS'free'
-p333
-I330
-sS'standard'
-p334
-I106
-sS'quick'
-p335
-I332
-sS'reason'
-p336
-I333
-sS'usual'
-p337
-I701
-sS'put'
-p338
-I134
-sS'wanted'
-p339
-I336
-sS'card'
-p340
-I337
-sS'care'
-p341
 I153
 sS'ate'
-p342
-I338
-sS'waiter'
-p343
-I339
-sS'could'
-p344
-I340
-sS'area'
-p345
-I836
-sS'sub par'
-p346
-I342
+p153
+I154
 sS'days'
-p347
-I193
-sS'times'
-p348
-I345
-sS'thing'
-p349
-I346
-sS'chicken'
-p350
-I488
-sS'would go'
-p351
-I680
-sS'yum'
-p352
-I147
-sS'garlic'
-p353
-I681
-sS'think'
-p354
-I350
-sS'south'
-p355
-I235
-sS'first'
-p356
-I352
-sS'cheese'
-p357
-I353
+p154
+I155
+sS'could used'
+p155
+I156
+sS'found place'
+p156
+I157
+sS'soda'
+p157
+I158
+sS'loud'
+p158
+I159
 sS'already'
-p358
-I354
-sS'went back'
-p359
-I355
-sS'feel'
-p360
-I356
-sS'next time'
-p361
-I357
-sS'never go'
-p362
-I358
-sS'fancy'
-p363
-I359
-sS'one'
-p364
-I360
+p159
+I160
+sS'veggie'
+p160
+I161
+sS'years never'
+p161
+I162
 sS'lettuce'
-p365
-I361
-sS'done'
-p366
-I362
-sS'long'
-p367
-I839
+p162
+I163
 sS'delicious'
-p368
-I364
-sS'really wanted'
-p369
-I894
-sS'quality'
-p370
-I314
-sS'mix'
-p371
-I918
-sS'size'
-p372
-I367
-sS'take'
-p373
-I731
-sS'city'
-p374
-I368
-sS'given'
-p375
-I329
-sS'management'
-p376
-I370
+p163
+I164
+sS'thick'
+p164
+I165
 sS'service'
-p377
-I371
-sS'taste like'
-p378
-I272
-sS'even better'
-p379
-I373
+p165
+I166
+sS'spinach'
+p166
+I167
 sS'top'
-p380
-I374
-sS'took order'
-p381
-I375
-sS'least'
-p382
-I376
+p167
+I168
+sS'horrible service'
+p168
+I169
 sS'needed'
-p383
-I378
-sS'white'
-p384
-I380
-sS'banana'
-p385
-I381
-sS'friend'
-p386
-I382
-sS'poor service'
-p387
-I383
-sS'go wrong'
-p388
-I385
-sS'pittsburgh'
-p389
-I386
-sS'special occasion'
-p390
-I387
-sS'serve'
-p391
-I388
+p169
+I170
+sS'decided try'
+p170
+I171
+sS'really really'
+p171
+I172
+sS'pretty much'
+p172
+I1087
 sS'took'
-p392
-I389
-sS'ridiculous'
-p393
-I12
-sS'burrito'
-p394
-I688
-sS'thai'
-p395
-I394
-sS'believe'
-p396
-I395
-sS'boyfriend'
-p397
-I397
-sS'chef'
-p398
-I398
-sS'kind'
-p399
-I399
-sS'late night'
-p400
-I400
-sS'general tso'
-p401
-I66
-sS'gotten'
-p402
-I402
-sS'quality food'
-p403
-I682
-sS'next day'
-p404
-I305
+p173
+I174
+sS'atmosphere nice'
+p174
+I175
+sS'showed'
+p175
+I176
+sS'second'
+p176
+I177
 sS'seated'
-p405
-I405
-sS'definitely go'
-p406
-I406
-sS'game'
-p407
-I742
-sS'cost'
-p408
-I407
-sS'supposed'
-p409
-I556
-sS'sweet potato'
-p410
-I410
-sS'would never'
-p411
-I412
-sS'charlotte'
-p412
-I413
-sS'tasted'
-p413
-I414
-sS'outstanding'
-p414
-I415
-sS'slaw'
-p415
-I416
-sS'first time'
-p416
-I417
-sS'mind'
-p417
-I418
-sS'juicy'
-p418
-I697
-sS'sad'
-p419
-I419
-sS'tonight'
-p420
-I420
+p177
+I178
+sS'matter'
+p178
+I179
+sS'street'
+p179
+I24
+sS'feeling'
+p180
+I181
+sS'salt pepper'
+p181
+I182
+sS'pass'
+p182
+I904
+sS'flavorful'
+p183
+I184
+sS'mine'
+p184
+I185
 sS'talking'
-p421
-I421
-sS'say'
-p422
-I422
-sS'spicy'
-p423
-I845
-sS'food came'
-p424
-I425
-sS'need'
-p425
-I426
+p185
+I186
 sS'seen'
-p426
-I427
-sS'breakfast'
-p427
-I428
+p186
+I187
+sS'seem'
+p187
+I188
 sS'mins'
-p428
-I429
-sS'saw'
-p429
-I430
-sS'orders'
-p430
-I431
-sS'sat'
-p431
-I432
-sS'nights'
-p432
-I433
-sS'dishes'
-p433
-I434
-sS'min'
-p434
-I690
-sS'check'
-p435
-I895
-sS'offer'
-p436
-I848
-sS'able'
-p437
-I438
-sS'also'
-p438
-I439
-sS'recommended'
-p439
-I440
+p188
+I189
+sS'convenient'
+p189
+I190
 sS'wait go'
-p440
-I441
-sS'packed'
-p441
-I520
-sS'excellent food'
-p442
-I443
-sS'glasses'
-p443
-I820
-sS'added'
-p444
-I56
-sS'sunday brunch'
-p445
-I253
+p190
+I191
+sS'ok food'
+p191
+I192
+sS'blue'
+p192
+I193
+sS'gravy'
+p193
+I108
 sS'though'
-p446
-I446
-sS'park'
-p447
-I447
-sS'price'
-p448
-I792
-sS'salmon'
-p449
-I449
-sS'buffalo chicken'
-p450
-I450
-sS'buffet'
-p451
-I451
-sS'leave'
-p452
-I452
+p194
+I194
+sS'mashed'
+p195
+I195
+sS'luke warm'
+p196
+I196
 sS'regular'
-p453
-I453
-sS'terrible service'
-p454
-I454
-sS'eaten'
-p455
-I822
-sS'nothing'
-p456
-I455
-sS'extremely'
-p457
-I456
-sS'forever'
-p458
-I457
-sS'looks like'
-p459
-I699
-sS'never disappointed'
-p460
-I459
-sS'especially'
-p461
-I460
-sS'hot dog'
-p462
-I461
-sS'gyro'
-p463
-I462
-sS'seafood'
-p464
-I463
-sS'later'
-p465
-I464
-sS'dirty'
-p466
-I875
+p197
+I197
+sS'mouth'
+p198
+I198
+sS'plenty'
+p199
+I199
+sS'sub'
+p200
+I908
+sS'something new'
+p201
+I201
+sS'soups'
+p202
+I202
 sS'dog'
+p203
+I203
+sS'crowd'
+p204
+I374
+sS'definitely'
+p205
+I204
+sS'place'
+p206
+I593
+sS'came'
+p207
+I205
+sS'saying'
+p208
+I206
+sS'place grab'
+p209
+I1295
+sS'crust'
+p210
+I910
+sS'came table'
+p211
+I209
+sS'good amount'
+p212
+I210
+sS'really disappointed'
+p213
+I211
+sS'enjoyed'
+p214
+I212
+sS'toast'
+p215
+I213
+sS'busy'
+p216
+I214
+sS'salad bar'
+p217
+I215
+sS'asked could'
+p218
+I386
+sS'menu'
+p219
+I216
+sS'weekends'
+p220
+I217
+sS'rich'
+p221
+I218
+sS'rice'
+p222
+I219
+sS'takeout'
+p223
+I956
+sS'plate'
+p224
+I220
+sS'champaign'
+p225
+I221
+sS'de'
+p226
+I222
+sS'stop'
+p227
+I223
+sS'appetizer'
+p228
+I224
+sS'despite'
+p229
+I225
+sS'nasty'
+p230
+I226
+sS'nothing special'
+p231
+I227
+sS'bar'
+p232
+I228
+sS'greens'
+p233
+I229
+sS'one time'
+p234
+I230
+sS'twice'
+p235
+I231
+sS'bad'
+p236
+I232
+sS'grilled'
+p237
+I233
+sS'steak'
+p238
+I234
+sS'fair'
+p239
+I235
+sS'food awesome'
+p240
+I1422
+sS'decided'
+p241
+I238
+sS'noodles'
+p242
+I239
+sS'best'
+p243
+I240
+sS'said'
+p244
+I241
+sS'food place'
+p245
+I242
+sS'lots'
+p246
+I243
+sS'away'
+p247
+I244
+sS'rings'
+p248
+I245
+sS'also delicious'
+p249
+I246
+sS'speak manager'
+p250
+I247
+sS'time came'
+p251
+I248
+sS'could taste'
+p252
+I250
+sS'cajun'
+p253
+I251
+sS'customer service'
+p254
+I252
+sS'high quality'
+p255
+I253
+sS'however'
+p256
+I254
+sS'place lunch'
+p257
+I255
+sS'kitchen'
+p258
+I256
+sS'service horrible'
+p259
+I917
+sS'fault'
+p260
+I258
+sS'pretty tasty'
+p261
+I259
+sS'hummus'
+p262
+I260
+sS'games'
+p263
+I261
+sS'asked'
+p264
+I262
+sS'suggest'
+p265
+I114
+sS'appeared'
+p266
+I263
+sS'groupon'
+p267
+I264
+sS'hit miss'
+p268
+I265
+sS'tons'
+p269
+I266
+sS'alice cooper'
+p270
+I267
+sS'refill'
+p271
+I268
+sS'speak'
+p272
+I269
+sS'bathroom'
+p273
+I270
+sS'beef'
+p274
+I271
+sS'bad food'
+p275
+I272
+sS'three'
+p276
+I273
+sS'tiny'
+p277
+I274
+sS'quickly'
+p278
+I275
+sS'beer'
+p279
+I276
+sS'much'
+p280
+I277
+sS'expected'
+p281
+I278
+sS'fry'
+p282
+I279
+sS'lovely'
+p283
+I280
+sS'threw'
+p284
+I281
+sS'life'
+p285
+I282
+sS'orange chicken'
+p286
+I283
+sS'pulled pork'
+p287
+I284
+sS'chile'
+p288
+I285
+sS'chili'
+p289
+I286
+sS'comes back'
+p290
+I287
+sS'east'
+p291
+I288
+sS'place always'
+p292
+I289
+sS'say'
+p293
+I632
+sS'n'
+p294
+I291
+sS'near'
+p295
+I292
+sS'onion rings'
+p296
+I293
+sS'beer cave'
+p297
+I294
+sS'hot sauce'
+p298
+I295
+sS'mistake'
+p299
+I296
+sS'sushi'
+p300
+I297
+sS'customers'
+p301
+I298
+sS'shame'
+p302
+I299
+sS'nice atmosphere'
+p303
+I300
+sS'several times'
+p304
+I301
+sS'things'
+p305
+I302
+sS'make'
+p306
+I303
+sS'split'
+p307
+I304
+sS'plates'
+p308
+I305
+sS'several'
+p309
+I306
+sS'place empty'
+p310
+I307
+sS'fairly'
+p311
+I308
+sS'hand'
+p312
+I1659
+sS'would go'
+p313
+I309
+sS'garlic'
+p314
+I310
+sS'tuna'
+p315
+I311
+sS'butter'
+p316
+I312
+sS'kept'
+p317
+I313
+sS'pizza heaven'
+p318
+I314
+sS'burgers'
+p319
+I315
+sS'mother'
+p320
+I316
+sS'left'
+p321
+I317
+sS'yes'
+p322
+I318
+sS'yet'
+p323
+I319
+sS'ham'
+p324
+I858
+sS'roast beef'
+p325
+I322
+sS'easy'
+p326
+I324
+sS'enchilada'
+p327
+I325
+sS'save'
+p328
+I326
+sS'ordered food'
+p329
+I327
+sS'gave'
+p330
+I328
+sS'shrimp grits'
+p331
+I329
+sS'anyway'
+p332
+I1490
+sS'possible'
+p333
+I330
+sS'would good'
+p334
+I331
+sS'burnt'
+p335
+I332
+sS'monday night'
+p336
+I333
+sS'great little'
+p337
+I335
+sS'five stars'
+p338
+I336
+sS'chinese restaurant'
+p339
+I337
+sS'night'
+p340
+I338
+sS'right'
+p341
+I339
+sS'old'
+p342
+I340
+sS'deal'
+p343
+I341
+sS'people'
+p344
+I342
+sS'dining room'
+p345
+I343
+sS'nothing else'
+p346
+I344
+sS'best part'
+p347
+I346
+sS'bottom'
+p348
+I347
+sS'phenomenal'
+p349
+I348
+sS'ice'
+p350
+I349
+sS'hard find'
+p351
+I808
+sS'everything'
+p352
+I351
+sS'egg drop'
+p353
+I352
+sS'authentic mexican'
+p354
+I353
+sS'cheesecake'
+p355
+I649
+sS'time time'
+p356
+I355
+sS'place eat'
+p357
+I356
+sS'delicious also'
+p358
+I467
+sS'popular'
+p359
+I358
+sS'super'
+p360
+I359
+sS'sunday night'
+p361
+I360
+sS'diner'
+p362
+I361
+sS'inedible'
+p363
+I362
+sS'ribs'
+p364
+I519
+sS'zero stars'
+p365
+I364
+sS'dinner'
+p366
+I365
+sS'plus'
+p367
+I366
+sS'afternoon'
+p368
+I367
+sS'coming years'
+p369
+I368
+sS'lacked'
+p370
+I539
+sS'curry'
+p371
+I370
+sS'two'
+p372
+I371
+sS'definitely return'
+p373
+I372
+sS'never return'
+p374
+I373
+sS'bar food'
+p375
+I634
+sS'like good'
+p376
+I375
+sS'put order'
+p377
+I376
+sS'yum yum'
+p378
+I377
+sS'way'
+p379
+I378
+sS'friendly helpful'
+p380
+I379
+sS'one table'
+p381
+I624
+sS'came back'
+p382
+I381
+sS'happy'
+p383
+I382
+sS'better service'
+p384
+I383
+sS'head'
+p385
+I384
+sS'medium'
+p386
+I633
+sS'offer'
+p387
+I385
+sS'green beans'
+p388
+I87
+sS'sea bass'
+p389
+I387
+sS'heat'
+p390
+I388
+sS'hear'
+p391
+I389
+sS'little place'
+p392
+I390
+sS'portions'
+p393
+I391
+sS'come back'
+p394
+I392
+sS'chicken sandwich'
+p395
+I393
+sS'inside'
+p396
+I394
+sS'seafood'
+p397
+I656
+sS'hands best'
+p398
+I397
+sS'hungry'
+p399
+I398
+sS'trip'
+p400
+I739
+sS'menu items'
+p401
+I400
+sS'good thing'
+p402
+I401
+sS'many times'
+p403
+I1460
+sS'good think'
+p404
+I402
+sS'highly recommended'
+p405
+I403
+sS'food bland'
+p406
+I404
+sS'tip'
+p407
+I764
+sS'smell'
+p408
+I405
+sS'roll'
+p409
+I406
+sS'phoenix'
+p410
+I407
+sS'welcome'
+p411
+I802
+sS'go somewhere'
+p412
+I409
+sS'staff great'
+p413
+I410
+sS'go lunch'
+p414
+I411
+sS'weekend'
+p415
+I412
+sS'longer'
+p416
+I413
+sS'apology'
+p417
+I414
+sS'potato'
+p418
+I415
+sS'food excellent'
+p419
+I417
+sS'daily'
+p420
+I850
+sS'spend money'
+p421
+I419
+sS'quite tasty'
+p422
+I420
+sS'time'
+p423
+I421
+sS'chain'
+p424
+I422
+sS'many people'
+p425
+I1486
+sS'place would'
+p426
+I424
+sS'spring rolls'
+p427
+I717
+sS'walking'
+p428
+I426
+sS'drink specials'
+p429
+I427
+sS'manager'
+p430
+I428
+sS'long time'
+p431
+I429
+sS'certainly'
+p432
+I430
+sS'disgusting'
+p433
+I431
+sS'environment'
+p434
+I432
+sS'best mexican'
+p435
+I433
+sS'finally'
+p436
+I434
+sS'bar area'
+p437
+I435
+sS'brown'
+p438
+I436
+sS'vegan'
+p439
+I437
+sS'tacos'
+p440
+I438
+sS'food horrible'
+p441
+I439
+sS'trying get'
+p442
+I440
+sS'cook'
+p443
+I441
+sS'word'
+p444
+I78
+sS'minute'
+p445
+I443
+sS'cool'
+p446
+I444
+sS'nothing great'
+p447
+I445
+sS'tortillas'
+p448
+I446
+sS'die'
+p449
+I447
+sS'specials'
+p450
+I448
+sS'item'
+p451
+I449
+sS'quick'
+p452
+I450
+sS'guy'
+p453
+I451
+sS'dip'
+p454
+I452
+sS'anytime soon'
+p455
+I453
+sS'pork'
+p456
+I454
+sS'says'
+p457
+I455
+sS'sign'
+p458
+I456
+sS'one star'
+p459
+I457
+sS'run'
+p460
+I458
+sS'beer selection'
+p461
+I459
+sS'drinks'
+p462
+I460
+sS'garlic bread'
+p463
+I461
+sS'would recommend'
+p464
+I462
+sS'wait minutes'
+p465
+I463
+sS'great meal'
+p466
+I350
+sS'goes'
 p467
 I465
-sS'martini'
+sS'staff'
 p468
-I466
-sS'looked'
+I1495
+sS'corn'
 p469
-I467
-sS'lots'
+I357
+sS'filled'
 p470
-I544
-sS'part'
+I468
+sS'french'
 p471
-I391
-sS'best thing'
+I469
+sS'water'
 p472
-I265
-sS'clean'
+I470
+sS'watch game'
 p473
-I471
-sS'occasion'
+I667
+sS'alone'
 p474
-I920
-sS'charged'
+I472
+sS'along'
 p475
 I473
-sS'review'
+sS'change'
 p476
-I392
-sS'fact'
+I474
+sS'wait'
 p477
-I79
-sS'shop'
-p478
 I475
-sS'rating'
+sS'box'
+p478
+I476
+sS'let know'
 p479
-I295
-sS'atmosphere'
-p480
 I477
-sS'selection'
-p481
+sS'great deal'
+p480
 I478
-sS'particularly'
-p482
+sS'healthy'
+p481
 I479
-sS'show'
-p483
+sS'give try'
+p482
 I480
-sS'german'
-p484
+sS'real deal'
+p483
 I481
-sS'casbah'
-p485
+sS'french toast'
+p484
 I482
-sS'time went'
-p486
+sS'usually'
+p485
 I483
-sS'cheap'
-p487
+sS'weird'
+p486
 I484
-sS'bring'
+sS'entrees'
+p487
+I485
+sS'service terrible'
 p488
 I486
-sS'good service'
+sS'love'
 p489
-I52
-sS'fine'
+I487
+sS'fried chicken'
 p490
-I232
-sS'enjoyed'
+I1207
+sS'extra'
 p491
-I82
-sS'staff'
+I489
+sS'asked server'
 p492
 I490
-sS'egg roll'
+sS'back restaurant'
 p493
 I491
-sS'waited'
+sS'working'
 p494
 I492
-sS'slow'
+sS'positive'
 p495
-I101
-sS'based'
+I493
+sS'visit'
 p496
 I494
-sS'asked could'
+sS'minutes waiting'
 p497
-I850
-sS'menu'
-p498
 I495
-sS'enough'
+sS'sports'
+p498
+I496
+sS'live'
 p499
-I549
-sS'texture'
+I497
+sS'thru'
 p500
 I498
-sS'going'
+sS'today'
 p501
 I499
-sS'black'
+sS'cashier'
 p502
 I500
-sS'rich'
+sS'chocolate'
 p503
-I158
-sS'rice'
+I501
+sS'downtown'
 p504
 I502
-sS'feel like'
+sS'beers'
 p505
-I184
-sS'hope'
+I503
+sS'first thing'
 p506
 I504
-sS'plate'
+sS'fast service'
 p507
-I506
-sS'hit'
+I505
+sS'olive'
 p508
-I507
-sS'get'
+I506
+sS'great place'
 p509
-I322
-sS'stop'
+I507
+sS'taste good'
 p510
-I220
-sS'needless say'
-p511
 I508
-sS'best pizza'
-p512
+sS'edible'
+p511
 I509
-sS'truly'
-p513
-I315
-sS'food quality'
-p514
-I828
-sS'ones'
-p515
+sS'take home'
+p512
 I510
-sS'stars'
-p516
+sS'car'
+p513
 I511
-sS'perfection'
-p517
+sS'beers tap'
+p514
 I512
-sS'new'
-p518
+sS'soul'
+p515
 I513
-sS'chips'
-p519
+sS'reviews'
+p516
 I514
-sS'place go'
-p520
+sS'soup'
+p517
 I515
-sS'gem'
-p521
+sS'sour'
+p518
 I516
-sS'bar'
-p522
+sS'making'
+p519
+I791
+sS'arrive'
+p520
 I517
-sS'places'
-p523
-I864
-sS'greens'
-p524
+sS'seems like'
+p521
 I518
-sS'ended'
-p525
-I519
-sS'twice'
-p526
+sS'dollars'
+p522
+I363
+sS'awesome'
+p523
+I520
+sS'heard'
+p524
 I521
-sS'bad'
-p527
+sS'wine selection'
+p525
 I522
-sS'stuff'
-p528
+sS'dropped'
+p526
 I523
-sS'wish'
-p529
-I866
-sS'grilled'
-p530
+sS'mediocre food'
+p527
+I524
+sS'food even'
+p528
 I525
-sS'collard greens'
-p531
-I526
-sS'last time'
-p532
+sS'means'
+p529
+I1501
+sS'sunday'
+p530
 I527
-sS'steak'
+sS'beans'
+p531
+I1247
+sS'walked away'
+p532
+I529
+sS'cocktail'
 p533
-I528
-sS'husband'
-p534
 I530
-sS'restaurants'
-p535
-I531
-sS'set'
-p536
+sS'may'
+p534
 I532
-sS'french fries'
-p537
+sS'spot'
+p535
 I533
-sS'see'
-p538
+sS'mac'
+p536
 I534
-sS'decided'
-p539
+sS'birthday'
+p537
 I535
-sS'parking'
-p540
+sS'date'
+p538
 I536
-sS'close'
-p541
-I537
-sS'noodles'
-p542
+sS'little bit'
+p539
+I145
+sS'guys'
+p540
 I538
-sS'flavor'
+sS'every time'
+p541
+I369
+sS'give us'
+p542
+I540
+sS'man'
 p543
-I714
-sS'best'
-p544
-I442
-sS'chose'
-p545
 I541
-sS'said'
-p546
+sS'remember'
+p544
 I542
-sS'great food'
+sS'whenever'
+p545
+I543
+sS'maybe'
+p546
+I544
+sS'staff nice'
 p547
-I411
-sS'super friendly'
+I545
+sS'pulled'
 p548
-I468
-sS'wow'
+I546
+sS'typical'
 p549
-I198
-sS'give stars'
-p550
 I547
-sS'outside'
+sS'serving'
+p550
+I548
+sS'waste time'
 p551
-I497
-sS'food terrible'
+I549
+sS'years'
 p552
 I550
-sS'closed'
+sS'course'
 p553
-I552
-sS'horrible'
+I551
+sS'cold'
 p554
-I553
-sS'probably'
+I552
+sS'cole'
 p555
-I554
-sS'thought would'
+I553
+sS'group'
 p556
-I708
-sS'across'
+I554
+sS'thank'
 p557
 I555
-sS'meal'
+sS'interesting'
 p558
-I811
-sS'cajun'
+I556
+sS'appetizers'
 p559
 I557
-sS'recently'
+sS'amazing'
 p560
-I558
-sS'around pm'
+I99
+sS'food never'
 p561
 I559
-sS'customer service'
+sS'main'
 p562
 I560
-sS'however'
+sS'happened'
 p563
 I561
-sS'took forever'
+sS'good place'
 p564
 I562
-sS'job'
+sS'place ok'
 p565
 I563
-sS'must try'
+sS'non'
 p566
 I564
-sS'come'
+sS'lunch'
 p567
 I565
-sS'main course'
+sS'half'
 p568
 I566
-sS'kitchen'
+sS'ketchup'
 p569
 I567
-sS'water'
+sS'name'
 p570
-I290
-sS'last'
-p571
 I569
-sS'brown'
-p572
+sS'rock'
+p571
 I570
-sS'restaurant'
-p573
-I630
-sS'many'
-p574
-I573
-sS'barely'
-p575
-I574
-sS'hours'
-p576
-I568
-sS'took minutes'
-p577
-I575
-sS'etc'
-p578
-I577
-sS'patrons'
-p579
-I578
-sS'disappointment'
-p580
-I579
-sS'credit card'
-p581
-I186
-sS'whole'
-p582
-I581
-sS'asked'
-p583
-I582
-sS'comes'
-p584
-I583
-sS'olive oil'
-p585
-I584
-sS'cakes'
-p586
+sS'yeah'
+p572
 I572
-sS'tough'
-p587
+sS'check place'
+p573
+I573
+sS'year'
+p574
+I574
+sS'three times'
+p575
+I575
+sS'girl'
+p576
+I576
+sS'salads'
+p577
+I577
+sS'ice cream'
+p578
+I578
+sS'place get'
+p579
+I579
+sS'opened'
+p580
+I580
+sS'lacked flavor'
+p581
+I581
+sS'looking'
+p582
+I582
+sS'seriously'
+p583
+I583
+sS'correct'
+p584
+I584
+sS'never eat'
+p585
+I585
+sS'parking lot'
+p586
 I586
-sS'flavorless'
-p588
+sS'quite'
+p587
 I587
-sS'point'
-p589
+sS'time got'
+p588
 I588
-sS'simple'
+sS'far best'
+p589
+I68
+sS'selections'
 p590
-I589
-sS'sweet'
-p591
 I590
-sS'bad experience'
-p592
+sS'waiter'
+p591
 I591
-sS'others'
-p593
+sS'thing'
+p592
 I592
-sS'top notch'
+sS'yum'
+p593
+I101
+sS'pepperoni'
 p594
-I593
-sS'walk'
-p595
 I594
-sS'minutes later'
-p596
+sS'think'
+p595
 I595
-sS'happy hour'
-p597
-I644
-sS'away'
-p598
-I545
-sS'italian food'
-p599
+sS'waited'
+p596
 I596
-sS'table'
-p600
+sS'first'
+p597
 I597
-sS'refill'
-p601
+sS'cheese'
+p598
 I598
-sS'sunday'
-p602
+sS'food much'
+p599
 I599
-sS'considering'
-p603
-I600
-sS'late'
-p604
+sS'coming'
+p600
+I970
+sS'one'
+p601
 I601
-sS'beef'
-p605
-I602
-sS'bad food'
-p606
-I603
-sS'decent'
-p607
+sS'long'
+p602
+I1259
+sS'open'
+p603
 I604
-sS'going back'
-p608
-I551
-sS'quickly'
-p609
+sS'size'
+p604
+I605
+sS'asked manager'
+p605
 I606
-sS'taste'
-p610
-I889
-sS'beer'
-p611
+sS'city'
+p606
 I607
-sS'much'
-p612
+sS'little'
+p607
 I608
-sS'excellent service'
-p613
+sS'looked like'
+p608
 I609
-sS'peppers'
-p614
+sS'family owned'
+p609
 I610
-sS'lovely'
-p615
-I344
-sS'ravioli'
-p616
+sS'even better'
+p610
+I611
+sS'bite'
+p611
 I612
-sS'bbq'
-p617
+sS'plastic'
+p612
 I613
-sS'pm'
-p618
+sS'anyone'
+p613
 I614
-sS'disappointed'
-p619
-I747
-sS'lived'
-p620
+sS'white'
+p614
+I615
+sS'friend'
+p615
 I616
-sS'tasteless'
-p621
+sS'decent service'
+p616
 I617
-sS'turned'
-p622
+sS'poor service'
+p617
 I618
-sS'offered'
-p623
+sS'mostly'
+p618
 I619
-sS'cooked perfection'
-p624
+sS'pittsburgh'
+p619
 I620
-sS'else'
-p625
+sS'excited try'
+p620
 I621
-sS'finished'
-p626
+sS'time go'
+p621
 I622
-sS'prices'
-p627
+sS'ridiculous'
+p622
 I623
-sS'brunch'
-p628
-I14
-sS'attentive'
-p629
-I624
-sS'case'
-p630
-I548
-sS'pleasantly surprised'
-p631
+sS'thai'
+p623
+I625
+sS'try place'
+p624
 I626
-sS'main'
-p632
+sS'boyfriend'
+p625
 I627
-sS'soba'
-p633
-I60
-sS'sauce'
-p634
-I264
-sS'cash'
-p635
+sS'great beer'
+p626
+I628
+sS'great food'
+p627
+I1523
+sS'would never'
+p628
+I629
+sS'tasted'
+p629
+I630
+sS'slaw'
+p630
 I631
-sS'choices'
+sS'tastes'
+p631
+I290
+sS'ordered chicken'
+p632
+I1324
+sS'wanted like'
+p633
+I635
+sS'breakfast'
+p634
+I636
+sS'saw'
+p635
+I637
+sS'sat'
 p636
-I72
-sS'near'
+I1342
+sS'best food'
 p637
-I633
-sS'onion rings'
+I638
+sS'efficient'
 p638
-I571
-sS'fun'
-p639
-I100
-sS'took long'
-p640
 I639
-sS'vegetarian'
-p641
+sS'note'
+p639
 I640
-sS'wait staff'
-p642
-I274
-sS'service great'
-p643
+sS'dining'
+p640
+I641
+sS'spring roll'
+p641
 I642
-sS'almost'
-p644
+sS'take'
+p642
 I643
-sS'sushi'
-p645
+sS'online'
+p643
+I644
+sS'excellent food'
+p644
 I645
-sS'quiet'
+sS'sure'
+p645
+I646
+sS'multiple'
 p646
 I647
-sS'middle'
+sS'normal'
 p647
-I175
-sS'someone'
+I648
+sS'house made'
 p648
-I208
-sS'ready'
+I354
+sS'price'
 p649
-I651
-sS'overall good'
+I650
+sS'knew'
 p650
-I652
-sS'seem'
+I651
+sS'buffet'
 p651
-I653
-sS'cuisine'
+I652
+sS'complaints'
 p652
-I655
-sS'decor'
+I653
+sS'especially'
 p653
-I223
-sS'several times'
-p654
-I657
-sS'french toast'
-p655
-I659
-sS'perhaps'
-p656
-I660
-sS'pay'
-p657
-I237
-sS'make'
-p658
-I662
-sS'waitresses'
-p659
-I243
-sS'service excellent'
-p660
-I664
-sS'clearly'
-p661
-I665
-sS'par'
-p662
-I871
-sS'also ordered'
-p663
-I667
-sS'plates'
-p664
-I109
-sS'gets'
-p665
-I281
-sS'tomatoes'
-p666
-I670
-sS'week'
-p667
-I671
-sS'fairly'
-p668
-I672
-sS'used'
-p669
-I673
-sS'pho'
-p670
-I674
-sS'got food'
-p671
-I675
-sS'drink'
-p672
-I677
-sS'upon'
-p673
-I678
-sS'last night'
-p674
-I580
-sS'hole wall'
-p675
-I50
-sS'arrived'
-p676
-I349
-sS'two'
-p677
-I145
-sS'favorites'
-p678
-I683
-sS'broccoli'
-p679
-I684
-sS'butter'
-p680
-I686
-sS'entrees'
-p681
-I687
-sS'kept'
-p682
-I393
-sS'cook'
-p683
-I689
-sS'ingredients'
-p684
-I900
-sS'well'
-p685
-I691
-sS'food delicious'
-p686
-I323
-sS'obviously'
-p687
-I693
-sS'thought'
-p688
-I694
-sS'person'
-p689
-I435
-sS'without'
-p690
-I696
-sS'bottle'
-p691
-I445
-sS'slow service'
-p692
-I698
-sS'food ordered'
-p693
-I458
-sS'spend'
-p694
-I700
-sS'left'
-p695
-I251
-sS'things'
-p696
-I661
-sS'egg rolls'
-p697
-I702
-sS'outdoor'
-p698
-I703
-sS'mom'
-p699
-I704
-sS'less'
-p700
-I705
-sS'generally'
-p701
-I902
-sS'hands'
-p702
-I707
-sS'liked'
-p703
-I585
-sS'rest'
-p704
-I709
-sS'everyone else'
-p705
-I711
-sS'world'
-p706
-I745
-sS'something else'
-p707
-I713
-sS'yes'
-p708
-I539
-sS'yet'
-p709
-I715
-sS'tables'
-p710
-I716
-sS'generous'
-p711
-I717
-sS'cut'
-p712
-I718
-sS'fried chicken'
-p713
-I719
-sS'dining'
-p714
-I720
-sS'burnt'
-p715
-I721
-sS'would come'
-p716
-I722
-sS'seems'
-p717
-I723
-sS'food mediocre'
-p718
-I724
-sS'wall'
-p719
-I725
-sS'add'
-p720
-I726
-sS'location'
-p721
-I727
-sS'pretty good'
-p722
-I728
-sS'definitely worth'
-p723
-I729
-sS'ordered food'
-p724
-I546
-sS'gave'
-p725
-I638
-sS'real'
-p726
-I732
-sS'complaint'
-p727
-I734
-sS'around'
-p728
-I735
-sS'lacking'
-p729
-I736
-sS'would recommend'
-p730
-I737
-sS'also great'
-p731
-I738
-sS'big'
-p732
-I739
-sS'couple'
-p733
-I740
-sS'early'
-p734
-I741
-sS'never bad'
-p735
-I487
-sS'five'
-p736
-I743
-sS'know'
-p737
-I744
-sS'saying'
-p738
-I476
-sS'another minutes'
-p739
-I909
+I655
 sS'average'
-p740
-I881
-sS'immediately'
-p741
-I712
-sS'bit'
-p742
-I746
-sS'lady'
-p743
-I505
-sS'wings'
-p744
-I748
-sS'name'
-p745
-I377
-sS'well done'
-p746
-I750
-sS'could get'
-p747
-I751
-sS'like'
-p748
-I749
-sS'onion'
-p749
+p654
+I396
+sS'later'
+p655
+I657
+sS'drive'
+p656
+I658
+sS'salt'
+p657
+I416
+sS'bad place'
+p658
+I659
+sS'madison'
+p659
+I660
+sS'show'
+p660
+I661
+sS'german'
+p661
+I662
+sS'cheap'
+p662
+I663
+sS'corner'
+p663
+I664
+sS'good service'
+p664
+I665
+sS'egg roll'
+p665
+I666
+sS'slow'
+p666
+I471
+sS'enough'
+p667
+I689
+sS'texture'
+p668
+I669
+sS'going'
+p669
+I670
+sS'black'
+p670
+I671
+sS'waste money'
+p671
+I672
+sS'get'
+p672
+I673
+sS'best pizza'
+p673
+I674
+sS'truly'
+p674
+I537
+sS'gem'
+p675
+I675
+sS'morning'
+p676
+I677
+sS'last time'
+p677
+I678
+sS'tortilla'
+p678
+I679
+sS'husband'
+p679
+I680
+sS'ignored'
+p680
+I681
+sS'bit pricey'
+p681
+I682
+sS'seat'
+p682
+I683
+sS'cocktails'
+p683
+I684
+sS'chinese food'
+p684
+I685
+sS'parking'
+p685
+I686
+sS'wonder'
+p686
+I687
+sS'glass wine'
+p687
+I654
+sS'time money'
+p688
+I1243
+sS'review'
+p689
+I688
+sS'behind'
+p690
+I1057
+sS'chewy'
+p691
+I690
+sS'reading'
+p692
+I691
+sS'across'
+p693
+I692
+sS'affordable'
+p694
+I693
+sS'notice'
+p695
+I694
+sS'around pm'
+p696
+I695
+sS'back place'
+p697
+I696
+sS'come'
+p698
+I697
+sS'many'
+p699
+I699
+sS'finally came'
+p700
+I1270
+sS'think place'
+p701
+I702
+sS'disappointment'
+p702
+I703
+sS'next door'
+p703
 I752
-sS'waited minutes'
+sS'comes'
+p704
+I705
+sS'nearby'
+p705
+I706
+sS'across street'
+p706
+I707
+sS'flavorless'
+p707
+I708
+sS'happy hour'
+p708
+I709
+sS'wild thaiger'
+p709
+I710
+sS'considering'
+p710
+I711
+sS'informed'
+p711
+I712
+sS'going back'
+p712
+I713
+sS'entire time'
+p713
+I714
+sS'excellent service'
+p714
+I716
+sS'tasteless'
+p715
+I718
+sS'offered'
+p716
+I719
+sS'stars service'
+p717
+I720
+sS'undercooked'
+p718
+I721
+sS'attentive'
+p719
+I722
+sS'hidden'
+p720
+I723
+sS'deep dish'
+p721
+I724
+sS'case'
+p722
+I725
+sS'sauce'
+p723
+I992
+sS'accommodating'
+p724
+I727
+sS'star rating'
+p725
+I728
+sS'cash'
+p726
+I729
+sS'potato fries'
+p727
+I730
+sS'situation'
+p728
+I731
+sS'wait staff'
+p729
+I732
+sS'middle'
+p730
+I733
+sS'someone'
+p731
+I1002
+sS'different'
+p732
+I735
+sS'delicious food'
+p733
+I736
+sS'pay'
+p734
+I737
+sS'bowl'
+p735
+I738
+sS'check'
+p736
+I399
+sS'pad'
+p737
+I740
+sS'also ordered'
+p738
+I741
+sS'asked us'
+p739
+I742
+sS'place clean'
+p740
+I743
+sS'damn good'
+p741
+I744
+sS'week'
+p742
+I745
+sS'would like'
+p743
+I746
+sS'oil'
+p744
+I1015
+sS'booths'
+p745
+I748
+sS'horrible experience'
+p746
+I749
+sS'daily specials'
+p747
+I750
+sS'lot people'
+p748
+I751
+sS'credit card'
+p749
+I84
+sS'running'
 p750
 I753
-sS'mashed potatoes'
+sS'food mediocre'
 p751
-I650
-sS'burgers'
+I754
+sS'quality food'
 p752
-I695
-sS'someone else'
-p753
-I529
-sS'probably go'
-p754
-I540
-sS'either'
-p755
 I755
-sS'always'
-p756
-I283
-sS'served'
-p757
+sS'favorites'
+p753
+I756
+sS'totally'
+p754
 I757
-sS'great atmosphere'
-p758
-I485
-sS'seating'
-p759
+sS'would take'
+p755
+I758
+sS'burrito'
+p756
 I759
-sS'right'
-p760
+sS'without'
+p757
 I760
-sS'old'
-p761
+sS'bottle'
+p758
+I1086
+sS'looks like'
+p759
 I761
-sS'often'
-p762
+sS'charged'
+p760
 I762
-sS'deal'
-p763
+sS'everything else'
+p761
 I763
-sS'people'
-p764
-I764
-sS'absolutely'
-p765
+sS'money'
+p762
+I844
+sS'rest'
+p763
 I765
-sS'waitress came'
-p766
+sS'sour soup'
+p764
 I766
-sS'highly recommend'
-p767
+sS'something else'
+p765
 I767
-sS'date night'
-p768
+sS'flavor'
+p766
 I768
-sS'back'
-p769
+sS'fresh delicious'
+p767
 I769
-sS'dining room'
+sS'thinking'
+p768
+I770
+sS'seems'
+p769
+I771
+sS'except'
 p770
-I408
-sS'lobster'
+I772
+sS'coming back'
 p771
 I773
-sS'home'
+sS'real'
 p772
-I774
-sS'server'
+I775
+sS'around'
 p773
-I754
-sS'food amazing'
+I776
+sS'spectacular'
 p774
 I777
-sS'gross'
+sS'also great'
 p775
-I778
-sS'slice'
+I1185
+sS'dark'
 p776
-I779
-sS'chinese food'
+I1196
+sS'never bad'
 p777
 I780
-sS'literally'
+sS'mom'
 p778
 I781
-sS'avoid'
+sS'better places'
 p779
 I782
-sS'best ever'
+sS'using'
 p780
 I783
-sS'fabulous'
+sS'lady'
 p781
-I784
-sS'ice'
+I1209
+sS'server'
 p782
 I785
-sS'ok nothing'
+sS'someone else'
 p783
 I786
-sS'wrong'
+sS'either'
 p784
-I343
-sS'everything'
+I787
+sS'good stuff'
 p785
 I788
-sS'asking'
+sS'like one'
 p786
-I789
-sS'expensive'
+I1325
+sS'crab cakes'
 p787
 I790
-sS'next us'
+sS'seating'
 p788
-I791
-sS'three'
+I792
+sS'lobster'
 p789
-I605
-sS'turkey'
-p790
 I793
-sS'pepper'
+sS'gross'
+p790
+I794
+sS'slice'
 p791
-I63
-sS'run'
-p792
-I71
-sS'business'
-p793
 I795
-sS'night'
-p794
-I756
-sS'go back'
-p795
+sS'overly'
+p792
+I796
+sS'service food'
+p793
 I797
-sS'mashed'
-p796
+sS'minutes food'
+p794
 I798
-sS'although'
-p797
+sS'next us'
+p795
 I799
-sS'friday night'
-p798
-I800
-sS'pasta'
-p799
-I801
-sS'sandwiches'
-p800
-I802
-sS'bottom line'
-p801
-I803
-sS'stay'
-p802
-I916
-sS'super'
-p803
-I805
-sS'rare'
-p804
-I167
-sS'working'
-p805
-I807
-sS'anything'
-p806
-I808
-sS'oh'
-p807
-I809
-sS'favorite'
-p808
-I810
-sS'shrimp'
-p809
-I199
-sS'always great'
-p810
-I812
-sS'dinner'
-p811
-I813
-sS'old school'
-p812
-I814
-sS'plus'
-p813
-I211
-sS'stand'
-p814
-I815
-sS'drink order'
-p815
-I816
-sS'mixed'
-p816
-I817
-sS'mouth'
-p817
-I818
-sS'every time'
-p818
-I819
-sS'italian'
-p819
-I758
-sS'food good'
-p820
-I821
-sS'pretty much'
-p821
-I824
-sS'great service'
-p822
-I825
-sS'servers'
-p823
-I278
-sS'mushrooms'
-p824
-I827
-sS'homemade'
-p825
-I424
-sS'even though'
-p826
-I829
-sS'never return'
-p827
-I830
-sS'would expect'
-p828
-I831
-sS'next'
-p829
-I832
-sS'finally got'
-p830
-I833
-sS'rolls'
-p831
-I834
-sS'wife'
-p832
-I929
-sS'impressed'
-p833
-I835
-sS'tasting'
-p834
-I341
-sS'vegetables'
-p835
-I838
-sS'fast'
-p836
-I363
-sS'start'
-p837
-I840
-sS'minutes get'
-p838
-I841
-sS'lot'
-p839
-I225
-sS'forward'
-p840
-I843
-sS'said would'
-p841
-I396
-sS'happy'
-p842
-I844
-sS'medium'
-p843
-I423
-sS'elsewhere'
-p844
-I846
-sS'back try'
-p845
-I847
-sS'filet'
-p846
-I437
-sS'bite'
-p847
-I849
-sS'pleased'
-p848
-I776
-sS'great experience'
-p849
-I851
-sS'oil'
-p850
-I852
-sS'delivery'
-p851
-I853
-sS'expected'
-p852
-I854
-sS'hear'
-p853
-I472
-sS'beans'
-p854
-I855
-sS'might'
-p855
-I629
-sS'bread pudding'
-p856
-I856
-sS'line'
-p857
-I857
-sS'trying'
-p858
-I858
-sS'true'
-p859
-I859
-sS'eat'
-p860
-I860
-sS'spice'
-p861
-I861
-sS'thru'
-p862
-I379
-sS'portions'
-p863
-I863
-sS'much better'
-p864
-I496
-sS'service good'
-p865
-I83
-sS'food service'
-p866
-I524
-sS'inside'
-p867
-I867
-sS'potato'
-p868
-I868
-sS'fries'
-p869
-I869
-sS'us'
-p870
-I870
-sS'different'
-p871
-I656
-sS'placed'
-p872
-I872
-sS'bad service'
-p873
-I873
-sS'recommend place'
-p874
-I874
-sS'definitely back'
-p875
-I733
-sS'traditional'
-p876
-I876
-sS'cake'
-p877
-I877
-sS'problem'
-p878
-I878
-sS'fried'
-p879
-I879
-sS'minutes'
-p880
-I880
-sS'called'
-p881
-I576
-sS'tastes'
-p882
-I882
-sS'specials'
-p883
-I884
-sS'instead'
-p884
-I885
-sS'trio'
-p885
-I886
-sS'horrible service'
-p886
-I887
-sS'ordered'
-p887
-I888
-sS'burger'
-p888
-I401
-sS'forgot'
-p889
-I890
-sS'pie'
-p890
-I190
-sS'ordering'
-p891
-I372
-sS'tasty'
-p892
-I892
-sS'together'
-p893
-I893
-sS'delicious food'
-p894
-I117
-sS'trip'
-p895
-I436
-sS'order food'
-p896
-I896
-sS'cream'
-p897
-I897
-sS'dor stop'
-p898
-I676
-sS'love place'
-p899
-I775
-sS'good thing'
-p900
-I899
-sS'incredible'
-p901
-I196
-sS'salads'
-p902
-I901
-sS'tip'
-p903
-I706
-sS'topped'
-p904
-I904
-sS'always get'
-p905
-I905
-sS'definitely'
-p906
-I469
-sS'right amount'
-p907
-I908
-sS'nice place'
-p908
-I470
-sS'food place'
-p909
-I654
-sS'nice'
-p910
-I911
-sS'poor'
-p911
-I912
-sS'star'
-p912
-I913
-sS'getting'
-p913
-I826
+sS'good ordered'
+p796
+I1003
 sS'felt'
-p914
-I915
-sS'prepared'
-p915
+p797
+I408
+sS'business'
+p798
+I803
+sS'ok'
+p799
+I323
+sS'oh'
+p800
 I804
-sS'sure'
-p916
-I772
-sS'chance'
-p917
-I917
-sS'kinda'
-p918
-I919
-sS'reservation'
-p919
-I921
-sS'priced'
-p920
-I922
-sS'friends'
-p921
+sS'never ever'
+p801
+I805
+sS'favorite'
+p802
+I806
+sS'meal'
+p803
+I807
+sS'stand'
+p804
+I809
+sS'mixed'
+p805
+I810
+sS'road'
+p806
+I811
+sS'service mediocre'
+p807
+I812
+sS'food good'
+p808
+I813
+sS'coupon'
+p809
+I814
+sS'soup good'
+p810
+I815
+sS'service little'
+p811
+I816
+sS'least minutes'
+p812
+I817
+sS'even though'
+p813
+I818
+sS'food tasty'
+p814
+I1414
+sS'little dry'
+p815
+I819
+sS'area'
+p816
+I820
+sS'sides'
+p817
+I821
+sS'start'
+p818
+I822
+sS'one day'
+p819
+I823
+sS'lot'
+p820
+I824
+sS'said would'
+p821
+I825
+sS'valley'
+p822
+I826
+sS'spicy'
+p823
+I827
+sS'great experience'
+p824
+I828
+sS'absolutely love'
+p825
+I829
+sS'lot food'
+p826
+I830
+sS'trying'
+p827
+I831
+sS'read reviews'
+p828
+I832
+sS'rush'
+p829
+I833
+sS'romantic'
+p830
+I834
+sS'huge fan'
+p831
+I835
+sS'service good'
+p832
+I836
+sS'food service'
+p833
 I837
-sS'meals'
-p922
-I923
-sS'ago'
-p923
-I924
-sS'notch'
-p924
-I925
-sS'e'
-p925
-I926
-sS'longer'
-p926
-I927
-sS'yelp'
-p927
-I928
-sS'phone'
-p928
-I770
-sS'buffalo'
-p929
-I941
-sS'comfortable'
-p930
-I931
-sS'food excellent'
-p931
-I932
-sS'one favorite'
-p932
-I710
-sS'cole slaw'
-p933
-I474
-sS'look'
-p934
-I628
-sS'portion'
-p935
-I935
-sS'take order'
-p936
-I936
-sS'came'
-p937
-I937
-sS'time'
-p938
-I938
-sS'roll'
-p939
-I910
+sS'reasonable prices'
+p834
+I838
+sS'oh well'
+p835
+I839
+sS'worth price'
+p836
+I840
+sS'gone'
+p837
+I842
+sS'favorite places'
+p838
+I843
+sS'taste'
+p839
+I845
+sS'really like'
+p840
+I846
+sS'deep'
+p841
+I847
+sS'general'
+p842
+I848
+sS'tasty'
+p843
+I849
+sS'together'
+p844
+I418
+sS'girlfriend'
+p845
+I851
+sS'much flavor'
+p846
+I852
+sS'cream'
+p847
+I853
+sS'dor stop'
+p848
+I854
+sS'cheese fries'
+p849
+I855
+sS'get drink'
+p850
+I856
+sS'requested'
+p851
+I857
+sS'every single'
+p852
+I860
 sS'fresh'
-p940
-I939
-sS'goat'
-p941
+p853
+I861
+sS'included'
+p854
+I862
+sS'building'
+p855
+I863
+sS'wife'
+p856
+I864
+sS'great flavor'
+p857
+I865
+sS'original'
+p858
+I866
+sS'chinese'
+p859
+I867
+sS'month'
+p860
+I868
+sS'much better'
+p861
+I869
+sS'always nice'
+p862
+I870
+sS'dish'
+p863
+I871
+sS'make sure'
+p864
+I872
+sS'enchilada style'
+p865
+I873
+sS'eggs benedict'
+p866
+I874
+sS'tv'
+p867
+I875
+sS'sesame chicken'
+p868
+I876
+sS'th'
+p869
+I878
+sS'dressing'
+p870
+I879
+sS'smile'
+p871
+I880
+sS'presentation'
+p872
+I881
+sS'wish could'
+p873
+I882
+sS'woman'
+p874
+I883
+sS'returned'
+p875
+I91
+sS'returning'
+p876
+I97
+sS'far'
+p877
+I885
+sS'fat'
+p878
+I886
+sS'seemed like'
+p879
+I887
+sS'fan'
+p880
+I888
+sS'surprise'
+p881
+I889
+sS'food friendly'
+p882
+I890
+sS'grilled cheese'
+p883
+I891
+sS'heaven'
+p884
+I892
+sS'list'
+p885
+I893
+sS'large'
+p886
+I894
+sS'right away'
+p887
+I895
+sS'small'
+p888
+I896
+sS'neighborhood'
+p889
+I897
+sS'ten'
+p890
+I898
+sS'tea'
+p891
+I899
+sS'past'
+p892
+I901
+sS'burger'
+p893
+I902
+sS'zero'
+p894
 I903
-sS'baked'
-p942
+sS'fast food'
+p895
+I183
+sS'place good'
+p896
+I905
+sS'chicken salad'
+p897
+I906
+sS'stood'
+p898
+I907
+sS'place food'
+p899
+I200
+sS'could give'
+p900
+I909
+sS'long wait'
+p901
+I208
+sS'apologized'
+p902
+I911
+sS'little slow'
+p903
+I912
+sS'full'
+p904
+I913
+sS'taste buds'
+p905
+I914
+sS'lettuce tomato'
+p906
+I915
+sS'wife ordered'
+p907
+I916
+sS'hours'
+p908
+I257
+sS'potato pancakes'
+p909
+I1558
+sS'bring us'
+p910
+I919
+sS'strong'
+p911
+I920
+sS'ahead'
+p912
+I921
+sS'vegetarian'
+p913
+I922
+sS'experience'
+p914
+I923
+sS'amount'
+p915
+I924
+sS'pick'
+p916
+I925
+sS'give place'
+p917
+I926
+sS'options'
+p918
+I927
+sS'family'
+p919
+I928
+sS'would come'
+p920
+I321
+sS'put'
+p921
 I930
+sS'nothing spectacular'
+p922
+I931
+sS'eye'
+p923
+I932
+sS'takes'
+p924
+I933
+sS'took drink'
+p925
+I1242
+sS'pretty average'
+p926
+I934
+sS'call'
+p927
+I380
+sS'taken'
+p928
+I935
+sS'like eating'
+p929
+I936
+sS'flat'
+p930
+I937
+sS'door'
+p931
+I938
+sS'company'
+p932
+I939
+sS'excuse'
+p933
+I940
+sS'basically'
+p934
+I941
+sS'us food'
+p935
+I425
+sS'said yes'
+p936
+I942
+sS'town'
+p937
+I943
+sS'grill'
+p938
+I944
+sS'hour'
+p939
+I945
+sS'sucks'
+p940
+I946
+sS'best place'
+p941
+I947
+sS'corned beef'
+p942
+I948
+sS'restaurant week'
+p943
+I949
+sS'prompt'
+p944
+I950
+sS'food took'
+p945
+I951
+sS'salty'
+p946
+I952
+sS'seat us'
+p947
+I953
+sS'back soon'
+p948
+I954
+sS'breakfast lunch'
+p949
+I955
+sS'huge'
+p950
+I531
+sS'needs'
+p951
+I957
+sS'rather'
+p952
+I958
+sS'welcome diner'
+p953
+I959
+sS'comfort'
+p954
+I960
+sS'multiple times'
+p955
+I961
+sS'good experience'
+p956
+I962
+sS'okay nothing'
+p957
+I963
+sS'really enjoy'
+p958
+I964
+sS'goat'
+p959
+I965
+sS'never come'
+p960
+I571
+sS'sandwich'
+p961
+I966
+sS'okay'
+p962
+I967
+sS'tried'
+p963
+I968
+sS'drive thru'
+p964
+I969
+sS'next time'
+p965
+I600
+sS'choice'
+p966
+I971
+sS'authentic'
+p967
+I972
+sS'response'
+p968
+I973
+sS'short'
+p969
+I974
+sS'crowded'
+p970
+I975
+sS'read'
+p971
+I778
+sS'register'
+p972
+I976
+sS'really tasty'
+p973
+I977
+sS'egg'
+p974
+I978
+sS'patio'
+p975
+I979
+sS'mexican'
+p976
+I980
+sS'help'
+p977
+I981
+sS'soon'
+p978
+I982
+sS'attitude'
+p979
+I983
+sS'hell'
+p980
+I984
+sS'style'
+p981
+I985
+sS'tasted like'
+p982
+I986
+sS'gave us'
+p983
+I987
+sS'service ever'
+p984
+I988
+sS'actually'
+p985
+I989
+sS'late'
+p986
+I990
+sS'great service'
+p987
+I991
+sS'might'
+p988
+I726
+sS'nothing really'
+p989
+I993
+sS'evening'
+p990
+I734
+sS'return'
+p991
+I995
+sS'food'
+p992
+I996
+sS'would give'
+p993
+I997
+sS'back kitchen'
+p994
+I998
+sS'always'
+p995
+I999
+sS'year old'
+p996
+I1000
+sS'mexican food'
+p997
+I1001
+sS'stopped'
+p998
+I800
+sS'take drink'
+p999
+I1004
+sS'always fresh'
+p1000
+I1005
+sS'even get'
+p1001
+I1006
+sS'found'
+p1002
+I1007
+sS'biscuits'
+p1003
+I1008
+sS'everyone'
+p1004
+I1009
+sS'another'
+p1005
+I1569
+sS'needless'
+p1006
+I1010
+sS'house'
+p1007
+I1011
+sS'fish'
+p1008
+I1012
+sS'hard'
+p1009
+I1013
+sS'idea'
+p1010
+I1014
+sS'finish'
+p1011
+I747
+sS'expect'
+p1012
+I841
+sS'beyond'
+p1013
+I1016
+sS'chain restaurant'
+p1014
+I1017
+sS'really'
+p1015
+I1018
+sS'chicken shrimp'
+p1016
+I1019
+sS'let say'
+p1017
+I859
+sS'definitely come'
+p1018
+I1021
+sS'since'
+p1019
+I1022
+sS'fried rice'
+p1020
+I1023
+sS'acted like'
+p1021
+I1024
+sS'look like'
+p1022
+I1025
+sS'upon'
+p1023
+I1577
+sS'friday'
+p1024
+I1027
+sS'pleasant'
+p1025
+I1028
+sS'reason'
+p1026
+I1029
+sS'reasonable price'
+p1027
+I1030
+sS'china chili'
+p1028
+I1031
+sS'imagine'
+p1029
+I1032
+sS'ask'
+p1030
+I1033
+sS'manager came'
+p1031
+I1034
+sS'taking order'
+p1032
+I1478
+sS'american'
+p1033
+I1035
+sS'expecting'
+p1034
+I1036
+sS'w'
+p1035
+I1037
+sS'way better'
+p1036
+I1038
+sS'dine'
+p1037
+I1039
+sS'dont'
+p1038
+I1040
+sS'placed order'
+p1039
+I1041
+sS'feel'
+p1040
+I1042
+sS'way overpriced'
+p1041
+I1043
+sS'never go'
+p1042
+I1044
+sS'number'
+p1043
+I1045
+sS'done'
+p1044
+I1046
+sS'miss'
+p1045
+I1047
+sS'guess'
+p1046
+I1048
+sS'taste like'
+p1047
+I1049
+sS'ordered two'
+p1048
+I1050
+sS'definitely going'
+p1049
+I1051
+sS'least'
+p1050
+I1052
+sS'wonderful'
+p1051
+I1053
+sS'banana'
+p1052
+I1054
+sS'store'
+p1053
+I1055
+sS'option'
+p1054
+I1056
+sS'special occasion'
+p1055
+I1083
+sS'hotel'
+p1056
+I1059
+sS'park'
+p1057
+I1060
+sS'part'
+p1058
+I1061
+sS'believe'
+p1059
+I1062
+sS'service awful'
+p1060
+I1063
+sS'kind'
+p1061
+I1064
+sS'b'
+p1062
+I1065
+sS'love food'
+p1063
+I1066
+sS'gotten'
+p1064
+I1067
+sS'filet mignon'
+p1065
+I1068
+sS'sweet potato'
+p1066
+I1069
+sS'stale'
+p1067
+I1070
+sS'treated'
+p1068
+I1071
+sS'charlotte'
+p1069
+I1072
+sS'coleslaw'
+p1070
+I1073
+sS'half hour'
+p1071
+I1074
+sS'chips salsa'
+p1072
+I1075
+sS'drink orders'
+p1073
+I1076
+sS'orders'
+p1074
+I1077
+sS'thought'
+p1075
+I1583
+sS'chicken fried'
+p1076
+I464
+sS'moist'
+p1077
+I568
+sS'sandwiches'
+p1078
+I1081
+sS'poor quality'
+p1079
+I1082
+sS'good flavor'
+p1080
+I1058
+sS'german food'
+p1081
+I1084
+sS'experienced'
+p1082
+I1085
+sS'serve'
+p1083
+I173
+sS'also love'
+p1084
+I1239
+sS'salmon'
+p1085
+I1089
+sS'indian food'
+p1086
+I1090
+sS'great price'
+p1087
+I1091
+sS'experiences'
+p1088
+I1248
+sS'plan'
+p1089
+I1093
+sS'eaten'
+p1090
+I1094
+sS'waiting food'
+p1091
+I1095
+sS'nothing'
+p1092
+I1096
+sS'extremely'
+p1093
+I1097
+sS'never disappointed'
+p1094
+I1098
+sS'yelp reviews'
+p1095
+I1099
+sS'bbq sauce'
+p1096
+I1100
+sS'clear'
+p1097
+I1101
+sS'sometimes'
+p1098
+I1272
+sS'get food'
+p1099
+I1102
+sS'deep fried'
+p1100
+I1103
+sS'nice place'
+p1101
+I1104
+sS'clean'
+p1102
+I1105
+sS'notch'
+p1103
+I1106
+sS'food love'
+p1104
+I1310
+sS'soul food'
+p1105
+I1108
+sS'particularly'
+p1106
+I1109
+sS'service bad'
+p1107
+I1110
+sS'laid back'
+p1108
+I1111
+sS'fine'
+p1109
+I1112
+sS'find'
+p1110
+I1113
+sS'get us'
+p1111
+I1114
+sS'pretty'
+p1112
+I1115
+sS'would given'
+p1113
+I1116
+sS'feel like'
+p1114
+I1117
+sS'grocery store'
+p1115
+I1118
+sS'hit'
+p1116
+I1119
+sS'entr e'
+p1117
+I1120
+sS'chocolate chip'
+p1118
+I1121
+sS'cajun queen'
+p1119
+I1122
+sS'got order'
+p1120
+I1123
+sS'sour cream'
+p1121
+I1124
+sS'restaurants'
+p1122
+I1125
+sS'set'
+p1123
+I1126
+sS'french fries'
+p1124
+I1127
+sS'see'
+p1125
+I1128
+sS'sea'
+p1126
+I1129
+sS'close'
+p1127
+I1130
+sS'probably go'
+p1128
+I1131
+sS'wow'
+p1129
+I1132
+sS'please'
+p1130
+I1133
+sS'quick lunch'
+p1131
+I1134
+sS'food terrible'
+p1132
+I1135
+sS'probably'
+p1133
+I1136
+sS'available'
+p1134
+I1137
+sS'recently'
+p1135
+I1138
+sS'bad either'
+p1136
+I1139
+sS'lunch hour'
+p1137
+I1140
+sS'great selection'
+p1138
+I1141
+sS'main course'
+p1139
+I1142
+sS'c'
+p1140
+I1143
+sS'last'
+p1141
+I1144
+sS'restaurant'
+p1142
+I1145
+sS'ever seen'
+p1143
+I1146
+sS'service great'
+p1144
+I1147
+sS'mcdonald'
+p1145
+I1148
+sS'whole'
+p1146
+I1149
+sS'cakes'
+p1147
+I698
+sS'bell'
+p1148
+I1151
+sS'simple'
+p1149
+I1152
+sS'sweet'
+p1150
+I1153
+sS'low quality'
+p1151
+I1154
+sS'decent place'
+p1152
+I1155
+sS'simply'
+p1153
+I1607
+sS'crispy'
+p1154
+I1156
+sS'expensive'
+p1155
+I1157
+sS'due'
+p1156
+I1158
+sS'damn'
+p1157
+I1159
+sS'fries good'
+p1158
+I1160
+sS'peppers'
+p1159
+I1161
+sS'empty'
+p1160
+I1162
+sS'pm'
+p1161
+I1163
+sS'lived'
+p1162
+I1164
+sS'mind'
+p1163
+I1165
+sS'cooked perfection'
+p1164
+I1166
+sS'else'
+p1165
+I1167
+sS'ordered medium'
+p1166
+I1168
+sS'understand'
+p1167
+I1169
+sS'ever go'
+p1168
+I1170
+sS'prices'
+p1169
+I1171
+sS'waiting minutes'
+p1170
+I1172
+sS'meal good'
+p1171
+I1173
+sS'hostess'
+p1172
+I1174
+sS'raw'
+p1173
+I1175
+sS'leave'
+p1174
+I1020
+sS'bill'
+p1175
+I1176
+sS'worst service'
+p1176
+I1177
+sS'brought us'
+p1177
+I1178
+sS'fun'
+p1178
+I1179
+sS'staff friendly'
+p1179
+I1180
+sS'ready'
+p1180
+I1181
+sS'favorite place'
+p1181
+I93
+sS'decor'
+p1182
+I1183
+sS'anymore'
+p1183
+I1184
+sS'sweet sour'
+p1184
+I395
+sS'higher'
+p1185
+I1186
+sS'used'
+p1186
+I1187
+sS'got food'
+p1187
+I1188
+sS'want good'
+p1188
+I1189
+sS'yesterday'
+p1189
+I1190
+sS'great staff'
+p1190
+I1191
+sS'hole wall'
+p1191
+I1192
+sS'arrived'
+p1192
+I1193
+sS'strip mall'
+p1193
+I1194
+sS'recent'
+p1194
+I1195
+sS'early'
+p1195
+I779
+sS'older'
+p1196
+I1197
+sS'obviously'
+p1197
+I1198
+sS'person'
+p1198
+I1199
+sS'priced'
+p1199
+I1682
+sS'chicken good'
+p1200
+I1598
+sS'everyone else'
+p1201
+I1201
+sS'roasted'
+p1202
+I236
+sS'asked wanted'
+p1203
+I1203
+sS'another table'
+p1204
+I1204
+sS'tables'
+p1205
+I1205
+sS'cut'
+p1206
+I1206
+sS'told would'
+p1207
+I488
+sS'cup'
+p1208
+I1208
+sS'disappointed'
+p1209
+I784
+sS'overall great'
+p1210
+I1210
+sS'location'
+p1211
+I1211
+sS'excited'
+p1212
+I1212
+sS'surprised'
+p1213
+I1213
+sS'super nice'
+p1214
+I1214
+sS'big'
+p1215
+I1215
+sS'couple'
+p1216
+I1216
+sS'family style'
+p1217
+I1217
+sS'game'
+p1218
+I1218
+sS'food order'
+p1219
+I1219
+sS'bit'
+p1220
+I1220
+sS'wings'
+p1221
+I1221
+sS'every bite'
+p1222
+I1223
+sS'place amazing'
+p1223
+I334
+sS'took us'
+p1224
+I1225
+sS'often'
+p1225
+I1227
+sS'absolutely'
+p1226
+I1228
+sS'pretty bad'
+p1227
+I1229
+sS'date night'
+p1228
+I1230
+sS'back'
+p1229
+I1231
+sS'added'
+p1230
+I1232
+sS'love place'
+p1231
+I1233
+sS'lunch today'
+p1232
+I1234
+sS'sauces'
+p1233
+I1235
+sS'overall food'
+p1234
+I1236
+sS'still waiting'
+p1235
+I1237
+sS'place order'
+p1236
+I1238
+sS'eggs'
+p1237
+I1088
+sS'eating'
+p1238
+I1240
+sS'place best'
+p1239
+I1241
+sS'served'
+p1240
+I789
+sS'tried place'
+p1241
+I1244
+sS'anything'
+p1242
+I1245
+sS'delish'
+p1243
+I1246
+sS'place like'
+p1244
+I528
+sS'terrible service'
+p1245
+I1092
+sS'seeing'
+p1246
+I1249
+sS'within'
+p1247
+I1250
+sS'tofu'
+p1248
+I1251
+sS'servers'
+p1249
+I1252
+sS'good luck'
+p1250
+I1253
+sS'would expect'
+p1251
+I1254
+sS'rolls'
+p1252
+I1255
+sS'impressed'
+p1253
+I1256
+sS'tasting'
+p1254
+I1257
+sS'love love'
+p1255
+I1258
+sS'fast'
+p1256
+I602
+sS'filet'
+p1257
+I1260
+sS'cream sauce'
+p1258
+I1261
+sS'place busy'
+p1259
+I1262
+sS'properly'
+p1260
+I1263
+sS'minutes finally'
+p1261
+I1264
+sS'line'
+p1262
+I1265
+sS'fries'
+p1263
+I1266
+sS'us'
+p1264
+I1267
+sS'definitely back'
+p1265
+I1268
+sS'fried'
+p1266
+I1269
+sS'called'
+p1267
+I700
+sS'atmosphere great'
+p1268
+I1271
+sS'ordered'
+p1269
+I1273
+sS'ten minutes'
+p1270
+I1274
+sS'cafe'
+p1271
+I1275
+sS'order taken'
+p1272
+I1276
+sS'say place'
+p1273
+I1277
+sS'terrible food'
+p1274
+I1278
+sS'made fresh'
+p1275
+I1279
+sS'best thing'
+p1276
+I1280
+sS'nice'
+p1277
+I1281
+sS'prepared'
+p1278
+I1282
+sS'reservation'
+p1279
+I1283
+sS'meals'
+p1280
+I1284
+sS'ago'
+p1281
+I1285
+sS'e'
+p1282
+I1286
+sS'walked'
+p1283
+I1287
+sS'soy sauce'
+p1284
+I1288
+sS'cooked'
+p1285
+I1289
+sS'would think'
+p1286
+I1290
+sS'sent back'
+p1287
+I1291
+sS'good food'
+p1288
+I1292
+sS'new favorite'
+p1289
+I1293
+sS'one thing'
+p1290
+I1294
+sS'could use'
+p1291
+I207
+sS'busy lunch'
+p1292
+I1296
+sS'capital grille'
+p1293
+I900
+sS'go'
+p1294
+I1297
+sS'conversation'
+p1295
+I1437
+sS'table next'
+p1296
+I1298
+sS'issues'
+p1297
+I1299
+sS'seemed'
+p1298
+I1300
+sS'pizza hut'
+p1299
+I1301
+sS'never order'
+p1300
+I1302
+sS'send'
+p1301
+I1303
+sS'place try'
+p1302
+I1304
+sS'friendly'
+p1303
+I1305
+sS'sent'
+p1304
+I1306
+sS'seated right'
+p1305
+I1307
+sS'years ago'
+p1306
+I1308
+sS'outside'
+p1307
+I668
+sS'dessert'
+p1308
+I1309
+sS'mediocre best'
+p1309
+I1311
+sS'three stars'
+p1310
+I1312
+sS'telling'
+p1311
+I1313
+sS'drinking'
+p1312
+I1314
+sS'entire'
+p1313
+I1315
+sS'try'
+p1314
+I1317
+sS'one two'
+p1315
+I1318
+sS'smaller'
+p1316
+I1319
+sS'soba'
+p1317
+I1320
+sS'good little'
+p1318
+I1615
+sS'general tso'
+p1319
+I1322
+sS'odd'
+p1320
+I1079
+sS'sausage'
+p1321
+I1323
+sS'giving'
+p1322
+I1326
+sS'consistently'
+p1323
+I1327
+sS'waiting'
+p1324
+I1328
+sS'indian'
+p1325
+I1329
+sS'good overall'
+p1326
+I1330
+sS'chose'
+p1327
+I1331
+sS'last week'
+p1328
+I1332
+sS'let'
+p1329
+I1333
+sS'others'
+p1330
+I1334
+sS'pretty standard'
+p1331
+I1335
+sS'great'
+p1332
+I1336
+sS'receive'
+p1333
+I1337
+sS'go place'
+p1334
+I1338
+sS'opinion'
+p1335
+I1339
+sS'makes'
+p1336
+I1340
+sS'like something'
+p1337
+I1341
+sS'friday night'
+p1338
+I1621
+sS'high expectations'
+p1339
+I1344
+sS'standing'
+p1340
+I1345
+sS'use'
+p1341
+I1346
+sS'crap'
+p1342
+I1347
+sS'iced'
+p1343
+I1348
+sS'next'
+p1344
+I1349
+sS'doubt'
+p1345
+I1350
+sS'crab'
+p1346
+I1351
+sS'sort'
+p1347
+I1352
+sS'five minutes'
+p1348
+I1353
+sS'started'
+p1349
+I1354
+sS'service friendly'
+p1350
+I1355
+sS'rare'
+p1351
+I1624
+sS'sure would'
+p1352
+I1357
+sS'customer'
+p1353
+I1358
+sS'salad'
+p1354
+I1360
+sS'anywhere'
+p1355
+I1361
+sS'thin'
+p1356
+I1362
+sS'meet'
+p1357
+I1363
+sS'dining experience'
+p1358
+I1364
+sS'really nice'
+p1359
+I1365
+sS'tell us'
+p1360
+I1366
+sS'pieces'
+p1361
+I1367
+sS'high'
+p1362
+I1368
+sS'something'
+p1363
+I1369
+sS'shrimp'
+p1364
+I1370
+sS'onions'
+p1365
+I1371
+sS'good however'
+p1366
+I1372
+sS'sit'
+p1367
+I1373
+sS'instead'
+p1368
+I1374
+sS'establishment'
+p1369
+I1375
+sS'felt like'
+p1370
+I1631
+sS'watery'
+p1371
+I1377
+sS'entree'
+p1372
+I1378
+sS'watch'
+p1373
+I1379
+sS'send back'
+p1374
+I1380
+sS'second time'
+p1375
+I1381
+sS'taco'
+p1376
+I1383
+sS'minute wait'
+p1377
+I1384
+sS'service really'
+p1378
+I1385
+sS'realized'
+p1379
+I1386
+sS'order wrong'
+p1380
+I1387
+sS'light'
+p1381
+I1388
+sS'counter'
+p1382
+I1389
+sS'honestly'
+p1383
+I1390
+sS'good way'
+p1384
+I1391
+sS'martini'
+p1385
+I1392
+sS'say least'
+p1386
+I1393
+sS'move'
+p1387
+I1394
+sS'went lunch'
+p1388
+I1395
+sS'including'
+p1389
+I1396
+sS'looks'
+p1390
+I1397
+sS'service poor'
+p1391
+I1398
+sS'mentioned'
+p1392
+I1399
+sS'perfect'
+p1393
+I1400
+sS'lunch special'
+p1394
+I1
+sS'choose'
+p1395
+I1402
+sS'covered'
+p1396
+I1403
+sS'dad'
+p1397
+I1404
+sS'even worse'
+p1398
+I320
+sS'anywhere else'
+p1399
+I1405
+sS'well worth'
+p1400
+I1406
+sS'two stars'
+p1401
+I1407
+sS'front'
+p1402
+I1408
+sS'day'
+p1403
+I1409
+sS'got home'
+p1404
+I1410
+sS'would probably'
+p1405
+I1411
+sS'glasses'
+p1406
+I1412
+sS'avoid place'
+p1407
+I1413
+sS'ambiance'
+p1408
+I1415
+sS'potato salad'
+p1409
+I1416
+sS'sports bar'
+p1410
+I1417
+sS'every day'
+p1411
+I1418
+sS'great job'
+p1412
+I1419
+sS'special'
+p1413
+I1420
+sS'never came'
+p1414
+I1421
+sS'desert'
+p1415
+I1423
+sS'grits'
+p1416
+I1424
+sS'pretty good'
+p1417
+I1425
+sS'look forward'
+p1418
+I18
+sS'anything special'
+p1419
+I1427
+sS'food great'
+p1420
+I1428
+sS'cooked well'
+p1421
+I1429
+sS'southern'
+p1422
+I1430
+sS'completely'
+p1423
+I50
+sS'one came'
+p1424
+I1432
+sS'craving'
+p1425
+I1433
+sS'place take'
+p1426
+I1434
+sS'could'
+p1427
+I1435
+sS'keep'
+p1428
+I90
+sS'made order'
+p1429
+I603
+sS'pudding'
+p1430
+I1438
+sS'food like'
+p1431
+I1439
+sS'waitress'
+p1432
+I113
+sS'went back'
+p1433
+I1440
+sS'food fantastic'
+p1434
+I1441
+sS'owned'
+p1435
+I1442
+sS'owner'
+p1436
+I1443
+sS'quality'
+p1437
+I1444
+sS'management'
+p1438
+I1445
+sS'ordering'
+p1439
+I1446
+sS'hour half'
+p1440
+I1447
+sS'new york'
+p1441
+I1448
+sS'low'
+p1442
+I1449
+sS'tomato'
+p1443
+I1450
+sS'stomach'
+p1444
+I1451
+sS'stars'
+p1445
+I1382
+sS'exactly'
+p1446
+I1452
+sS'would highly'
+p1447
+I1453
+sS'loved'
+p1448
+I1454
+sS'needless say'
+p1449
+I1455
+sS'late night'
+p1450
+I1456
+sS'boring'
+p1451
+I1457
+sS'bother'
+p1452
+I1458
+sS'next day'
+p1453
+I237
+sS'loves'
+p1454
+I1461
+sS'visited'
+p1455
+I1462
+sS'got chicken'
+p1456
+I1316
+sS'comfortable'
+p1457
+I1464
+sS'tonight'
+p1458
+I1465
+sS'like place'
+p1459
+I1466
+sS'food came'
+p1460
+I1467
+sS'need'
+p1461
+I1468
+sS'server friendly'
+p1462
+I1469
+sS'food poisoning'
+p1463
+I1470
+sS'clearly'
+p1464
+I1471
+sS'dishes'
+p1465
+I1472
+sS'min'
+p1466
+I1473
+sS'able'
+p1467
+I1474
+sS'place awesome'
+p1468
+I1475
+sS'time come'
+p1469
+I1476
+sS'korean'
+p1470
+I1477
+sS'good chicken'
+p1471
+I1479
+sS'food amazing'
+p1472
+I345
+sS'get table'
+p1473
+I1649
+sS'hot dog'
+p1474
+I1480
+sS'looked'
+p1475
+I1481
+sS'eat food'
+p1476
+I1482
+sS'occasion'
+p1477
+I1483
+sS'normally'
+p1478
+I1484
+sS'fact'
+p1479
+I1485
+sS'average best'
+p1480
+I423
+sS'atmosphere'
+p1481
+I1487
+sS'selection'
+p1482
+I1488
+sS'time went'
+p1483
+I1489
+sS'back next'
+p1484
+I1459
+sS'bring'
+p1485
+I1491
+sS'give stars'
+p1486
+I1492
+sS'chicken'
+p1487
+I1493
+sS'pleased'
+p1488
+I1494
+sS'always order'
+p1489
+I466
+sS'based'
+p1490
+I1496
+sS'combo'
+p1491
+I1497
+sS'employee'
+p1492
+I1498
+sS'local'
+p1493
+I1499
+sS'hope'
+p1494
+I1500
+sS'watching'
+p1495
+I526
+sS'beat'
+p1496
+I1502
+sS'would make'
+p1497
+I1503
+sS'cole slaw'
+p1498
+I1107
+sS'overall'
+p1499
+I1504
+sS'sat us'
+p1500
+I1505
+sS'joint'
+p1501
+I1506
+sS'ones'
+p1502
+I1507
+sS'perfection'
+p1503
+I1508
+sS'pasta trio'
+p1504
+I1509
+sS'chips'
+p1505
+I1510
+sS'place go'
+p1506
+I1511
+sS'cherry blossom'
+p1507
+I1512
+sS'ended'
+p1508
+I1513
+sS'stuff'
+p1509
+I1514
+sS'grab'
+p1510
+I877
+sS'view'
+p1511
+I1515
+sS'medium well'
+p1512
+I1516
+sS'two people'
+p1513
+I1517
+sS'grilled chicken'
+p1514
+I1518
+sS'experience ever'
+p1515
+I1519
+sS'cheese steak'
+p1516
+I1520
+sS'packed'
+p1517
+I1521
+sS'still'
+p1518
+I1522
+sS'pork chop'
+p1519
+I1226
+sS'super friendly'
+p1520
+I1524
+sS'superb'
+p1521
+I1525
+sS'closed'
+p1522
+I1526
+sS'neither'
+p1523
+I1527
+sS'whole time'
+p1524
+I1401
+sS'job'
+p1525
+I1528
+sS'little bland'
+p1526
+I1529
+sS'quite bit'
+p1527
+I715
+sS'called back'
+p1528
+I1530
+sS'quick service'
+p1529
+I1531
+sS'figured'
+p1530
+I1532
+sS'joke'
+p1531
+I1533
+sS'taking'
+p1532
+I1534
+sS'etc'
+p1533
+I1535
+sS'favorite restaurant'
+p1534
+I1536
+sS'behind us'
+p1535
+I1537
+sS'peanut butter'
+p1536
+I1538
+sS'co'
+p1537
+I1539
+sS'wall'
+p1538
+I1540
+sS'tuesday'
+p1539
+I774
+sS'walk'
+p1540
+I1541
+sS'go get'
+p1541
+I1542
+sS'italian food'
+p1542
+I1543
+sS'table'
+p1543
+I1544
+sS'iceberg lettuce'
+p1544
+I1545
+sS'decent'
+p1545
+I1546
+sS'seasoned'
+p1546
+I1547
+sS'treat'
+p1547
+I1548
+sS'waste'
+p1548
+I1549
+sS'bbq'
+p1549
+I1550
+sS'seated us'
+p1550
+I1667
+sS'finished'
+p1551
+I1552
+sS'iced tea'
+p1552
+I1553
+sS'brunch'
+p1553
+I1554
+sS'welcoming'
+p1554
+I1555
+sS'value'
+p1555
+I1556
+sS'choices'
+p1556
+I1557
+sS'wild'
+p1557
+I918
+sS'bbq chicken'
+p1558
+I1559
+sS'took long'
+p1559
+I1560
+sS'last night'
+p1560
+I704
+sS'home made'
+p1561
+I1561
+sS'almost'
+p1562
+I1562
+sS'surprisingly'
+p1563
+I1563
+sS'looked good'
+p1564
+I1564
+sS'told us'
+p1565
+I1565
+sS'hot sour'
+p1566
+I1566
+sS'waitresses'
+p1567
+I1567
+sS'get one'
+p1568
+I1568
+sS'fried green'
+p1569
+I1570
+sS'party'
+p1570
+I1571
+sS'gets'
+p1571
+I1572
+sS'tomatoes'
+p1572
+I1573
+sS'pho'
+p1573
+I1574
+sS'slightly'
+p1574
+I1575
+sS'drink'
+p1575
+I1576
+sS'first place'
+p1576
+I1026
+sS'broccoli'
+p1577
+I1578
+sS'pleasantly'
+p1578
+I1579
+sS'anything else'
+p1579
+I1580
+sS'ingredients'
+p1580
+I1673
+sS'well'
+p1581
+I1582
+sS'wanted try'
+p1582
+I1078
+sS'call ahead'
+p1583
+I1584
+sS'egg rolls'
+p1584
+I1585
+sS'less'
+p1585
+I1586
+sS'liked'
+p1586
+I1150
+sS'give one'
+p1587
+I1587
+sS'point'
+p1588
+I1588
+sS'realize'
+p1589
+I1589
+sS'add'
+p1590
+I1590
+sS'eye contact'
+p1591
+I1591
+sS'great spot'
+p1592
+I1592
+sS'teriyaki'
+p1593
+I1593
+sS'fish chips'
+p1594
+I1594
+sS'kick'
+p1595
+I1595
+sS'decent food'
+p1596
+I1596
+sS'place definitely'
+p1597
+I1597
+sS'five'
+p1598
+I1200
+sS'know'
+p1599
+I1599
+sS'immediately'
+p1600
+I1600
+sS'would rather'
+p1601
+I1601
+sS'side salad'
+p1602
+I1602
+sS'well done'
+p1603
+I1603
+sS'like'
+p1604
+I1222
+sS'onion'
+p1605
+I1224
+sS'mac n'
+p1606
+I1605
+sS'would order'
+p1607
+I1606
+sS'soft'
+p1608
+I1608
+sS'italian'
+p1609
+I1609
+sS'hair'
+p1610
+I1610
+sS'home'
+p1611
+I1611
+sS'literally'
+p1612
+I1612
+sS'avoid'
+p1613
+I1613
+sS'food fresh'
+p1614
+I1614
+sS'pepper'
+p1615
+I1321
+sS'everything menu'
+p1616
+I1616
+sS'fried steak'
+p1617
+I1617
+sS'host'
+p1618
+I1618
+sS'go back'
+p1619
+I1619
+sS'although'
+p1620
+I1620
+sS'amazing food'
+p1621
+I1343
+sS'pasta'
+p1622
+I1622
+sS'stay'
+p1623
+I1679
+sS'sister'
+p1624
+I1623
+sS'actual'
+p1625
+I1356
+sS'world'
+p1626
+I1202
+sS'getting'
+p1627
+I1625
+sS'consistently good'
+p1628
+I1626
+sS'biscuit'
+p1629
+I1627
+sS'cheese sauce'
+p1630
+I1628
+sS'always great'
+p1631
+I1629
+sS'toppings'
+p1632
+I1630
+sS'green chili'
+p1633
+I1376
+sS'green chile'
+p1634
+I1632
+sS'mushrooms'
+p1635
+I1633
+sS'another chance'
+p1636
+I1634
+sS'us ordered'
+p1637
+I1635
+sS'check us'
+p1638
+I1683
+sS'vegetables'
+p1639
+I1638
+sS'spots'
+p1640
+I1639
+sS'noticed'
+p1641
+I1640
+sS'good deal'
+p1642
+I1641
+sS'keep coming'
+p1643
+I1642
+sS'worst experience'
+p1644
+I1643
+sS'fish fry'
+p1645
+I1644
+sS'ever tasted'
+p1646
+I1645
+sS'buy'
+p1647
+I1646
+sS'north'
+p1648
+I1647
+sS'delivery'
+p1649
+I1648
+sS'basil'
+p1650
+I801
+sS'bread pudding'
+p1651
+I1650
+sS'eat'
+p1652
+I1651
+sS'also'
+p1653
+I1080
+sS'corn bread'
+p1654
+I1652
+sS'made'
+p1655
+I1653
+sS'places'
+p1656
+I1654
+sS'wish'
+p1657
+I1655
+sS'burger king'
+p1658
+I1656
+sS'placed'
+p1659
+I1657
+sS'within minutes'
+p1660
+I1658
+sS'cake'
+p1661
+I1660
+sS'problem'
+p1662
+I1661
+sS'piece'
+p1663
+I1662
+sS'minutes'
+p1664
+I1663
+sS'food best'
+p1665
+I1664
+sS'whatever'
+p1666
+I1665
+sS'empty tables'
+p1667
+I1666
+sS'pie'
+p1668
+I1551
+sS'feels like'
+p1669
+I1668
+sS'awesome food'
+p1670
+I1669
+sS'goodness'
+p1671
+I1670
+sS'medium rare'
+p1672
+I1671
+sS'compared'
+p1673
+I1672
+sS'incredible'
+p1674
+I1581
+sS'sick'
+p1675
+I1674
+sS'cream cheese'
+p1676
+I1675
+sS'star'
+p1677
+I1676
+sS'good reviews'
+p1678
+I1677
+sS'get order'
+p1679
+I1678
+sS'leaving'
+p1680
+I1182
+sS'chance'
+p1681
+I1680
+sS'kinda'
+p1682
+I1681
+sS'looking forward'
+p1683
+I1636
+sS'friends'
+p1684
+I1637
+sS'fast friendly'
+p1685
+I1684
+sS'yelp'
+p1686
+I1685
+sS'pork sandwich'
+p1687
+I1686
+sS'get drinks'
+p1688
+I1687
+sS'portion'
+p1689
+I1688
+sS'thai food'
+p1690
+I1689
+sS'hidden gem'
+p1691
+I1690
+sS'baked'
+p1692
+I1691
 s.

@@ -70,7 +70,7 @@ def tokenize_and_stopwords(data_sample):
 def get_data_label(data):
 
     #remove stop words and punctuations.
-    samples = 20000#55000
+    samples = 40000#55000
     
     #data=data.apply(np.random.permutation)
     data_labels = copy.deepcopy(data["stars"])
@@ -121,8 +121,8 @@ def preprocess():
     
     #Read datasets
 	#Add your path here
-    data = pd.read_csv("../Data/yelp_academic_dataset_review.csv")
-    business_data = pd.read_csv("../Data/yelp_academic_dataset_business.csv")
+    data = pd.read_csv("C:/Users/sanja/Desktop/Sanjana/books/UCSC/YelpSA/Data/yelp_academic_dataset_review.csv")
+    business_data = pd.read_csv("C:/Users/sanja/Desktop/Sanjana/books/UCSC/YelpSA/Data/yelp_academic_dataset_business.csv")
     business_id = business_data[:][['business_id','categories','review_count']]
     
     #Merge datasets on key
