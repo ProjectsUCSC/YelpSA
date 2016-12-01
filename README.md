@@ -1,10 +1,10 @@
 # YelpSA
-To perform sentence level sentimental analysis on reviews to generate restaurant ratings .
+To perform sentence level sentimental analysis on reviews to generate restaurant ratings.
 
 #Algorithms  Implemented
 1. Multinomial Logistic Regression
 2. Multinomial Naive Bayes (with Laplacian Smoothening)
-3. Ensemble Classifier of 1. and 2. 
+3. Ensemble Classifier of 1 and 2 
 
 
 #Data 
