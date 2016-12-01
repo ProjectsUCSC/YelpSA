@@ -99,21 +99,11 @@ def pred_ternary(X_test, w, prior):
     pred[pred < 3] = 0
     pred[pred == 3] = 1
     pred[pred > 3] = 2
-    prob /= prob.sum(axis=1)[:, None]
-    ter_prob = np.zeros((len(pred), 3))
-    ter_prob[:,0] = prob[:,0] + prob[:,1]
-    ter_prob[:,1] = prob[:,2] 
-    ter_prob[:,2] = prob[:,3] + prob[:,4]
-    return [pred, np.max(ter_prob, axis=1)]
+    return [pred, prob]
 
 def pred_binary(X_test, w, prior):
     
     pred, prob = predict(X_test, w, prior)
     pred[pred < 3] = 0
-    pred[pred == 3] = 1
-    pred[pred > 3] = 1
-    prob /= prob.sum(axis=1)[:, None]
-    bin_prob = np.zeros((len(pred), 2))
-    bin_prob[:,0] = prob[:,0] + prob[:,1]
-    bin_prob[:,1] = prob[:,2] + prob[:,3] + prob[:,4]
-    return [pred, np.max(bin_prob, axis=1)]
+    pred[pred >= 3] = 1
+    return [pred, prob]
