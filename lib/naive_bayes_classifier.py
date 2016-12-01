@@ -1,5 +1,7 @@
 import numpy as np
 import copy
+import math
+
 def train(X, y, no_classes):
     no_features = len(X[0])
     w = np.zeros((no_classes, no_features))
@@ -9,6 +11,13 @@ def train(X, y, no_classes):
     class3 = []
     class4 = []
     class5 = []
+    
+    pclass1=float(sum(y==1))/len(y)
+    pclass2=float(sum(y==2))/len(y) 
+    pclass3=float(sum(y==3))/len(y) 
+    pclass4=float(sum(y==4))/len(y) 
+    pclass5=float(sum(y==5))/len(y)
+    prior = [pclass1, pclass2, pclass3, pclass4, pclass5]
     index=0
     for i in y:
         if i==1:
@@ -41,9 +50,9 @@ def train(X, y, no_classes):
         w[2][i] = (sum_freq3 + 1.0) /   (total_class3+no_features+1)
         w[3][i] = (sum_freq4 + 1.0) /  (total_class4+no_features+1)
         w[4][i] = (sum_freq5 + 1.0) /  (total_class5+no_features+1)
-    return w
+    return w, prior
 
-def prob_calc(X_test,w):
+def prob_calc(X_test, w, prior):
     no_features = len(X_test[0])
     prob =  np.ones((len(X_test),5))
     for index in range(5):#5 classes
@@ -53,30 +62,24 @@ def prob_calc(X_test,w):
                     continue
                 else:
                     prob[review][index] = prob[review][index] * (w[index][feature] * X_test[review][feature] )
-    
-    pclass1=float(sum(y_train==1))/len(y_train)
-    pclass2=float(sum(y_train==2))/len(y_train) 
-    pclass3=float(sum(y_train==3))/len(y_train) 
-    pclass4=float(sum(y_train==4))/len(y_train) 
-    pclass5=float(sum(y_train==5))/len(y_train)
 
     for i in range(len(prob)):
         np.sum(prob[i][:])
-        prob[i][0]= (prob[i][0]*pclass1)
-        prob[i][1]= (prob[i][1]*pclass2)
-        prob[i][2]= (prob[i][2]*pclass3)
-        prob[i][3]= (prob[i][3]*pclass4)
-        prob[i][4]= (prob[i][4]*pclass5)
+        prob[i][0]= (prob[i][0]*prior[0])
+        prob[i][1]= (prob[i][1]*prior[1])
+        prob[i][2]= (prob[i][2]*prior[2])
+        prob[i][3]= (prob[i][3]*prior[3])
+        prob[i][4]= (prob[i][4]*prior[4])
         
     return prob
 
-def predict(y_test,X_test,w):
-    prob=prob_calc(X_test,w)
-    pred=np.zeros(len(y_test))
+def predict(X_test, w, prior):
+    prob = prob_calc(X_test,w, prior)
+    pred = np.zeros(len(X_test))
     for i in range(len(prob)):
-        pred[i]= prob[i][:].argmax(axis=0)+1
+        pred[i] = prob[i][:].argmax(axis=0)+1
         
-    prob_normal=np.zeros((len(prob),1))
+    prob_normal = np.zeros((len(prob),1))
     inf = float("inf")
     for i in range(len(prob)):
         normalizer=np.sum(prob[i][:])
@@ -88,36 +91,29 @@ def predict(y_test,X_test,w):
     for i in range(len(prob)):
         if math.isnan(prob_normal[i]):
             prob_normal[i]=0
-    return pred,prob_normal
+    
+    return pred, prob_normal
 
-def pred_ternary(y_test):
-    print y_test[0:5]
-    y_test_thresholded = np.array(copy.deepcopy(y_test))
-    y_test_thresholded[y_test_thresholded < 3] = 0
-    y_test_thresholded[y_test_thresholded == 3] = 1
-    y_test_thresholded[y_test_thresholded > 3] = 2
-    pred=predict(y_test,X_test,w)
+def pred_ternary(X_test, w, prior):
+    pred, prob_normal = predict(X_test, w, prior)
     pred[pred < 3] = 0
     pred[pred == 3] = 1
     pred[pred > 3] = 2
-    accuracy= sum(pred==y_test_thresholded) * 100.0 / len(y_test_thresholded)
-    return accuracy,pred,y_test_thresholded
+    prob /= prob.sum(axis=1)[:, None]
+    ter_prob = np.zeros((len(pred), 3))
+    ter_prob[:,0] = prob[:,0] + prob[:,1]
+    ter_prob[:,1] = prob[:,2] 
+    ter_prob[:,2] = prob[:,3] + prob[:,4]
+    return [pred, np.max(ter_prob, axis=1)]
 
-def pred_binary(y_test):
+def pred_binary(X_test, w, prior):
     
-    print y_test[0:5]
-    y_test_thresholded = np.array(copy.deepcopy(y_test))
-    y_test_thresholded[y_test_thresholded < 3] = 0
-    y_test_thresholded[y_test_thresholded == 3] = 1
-    y_test_thresholded[y_test_thresholded > 3] = 1
-    pred,prob_normal=predict(y_test,X_test,w)
+    pred, prob_normal = predict(X_test, w, prior)
     pred[pred < 3] = 0
     pred[pred == 3] = 1
     pred[pred > 3] = 1
-    accuracy= sum(pred==y_test_thresholded) * 100.0 / len(y_test_thresholded)
-    return accuracy,pred,y_test_thresholded
-
-
-
-
-
+    prob /= prob.sum(axis=1)[:, None]
+    bin_prob = np.zeros((len(pred), 2))
+    bin_prob[:,0] = prob[:,0] + prob[:,1]
+    bin_prob[:,1] = prob[:,2] + prob[:,3] + prob[:,4]
+    return [pred, np.max(bin_prob, axis=1)]
