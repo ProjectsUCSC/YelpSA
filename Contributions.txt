@@ -1,0 +1,21 @@
+Literature Survey :  Avani, Sanjana , Sharath, Shubhangi 
+
+Documentation : Avani, Sanjana , Sharath, Shubhangi 
+
+Pre-processing :Sanjana, Avani
+
+Feature Extraction : Sharath, Shubhangi
+
+Implementation of Algorithms  
+
+ Naive Bayes : Sanjana, Avani
+ 
+ Multinomial Logistic Regression : Sharath, Shubhangi
+
+Test Suite : Sharath, Shubhangi
+ 
+Code modularisation : Sharath, Shubhangi
+
+Evaluation : Avani, Sanjana
+
+Evaluation against other Library Algorithms :Avani, Sanjana
