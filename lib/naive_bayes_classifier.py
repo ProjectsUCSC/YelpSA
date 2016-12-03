@@ -12,50 +12,41 @@ def train(X, y, no_classes):
     class4 = []
     class5 = []
     
-    pclass1=float(sum(y==1))/len(y)
-    pclass2=float(sum(y==2))/len(y) 
-    pclass3=float(sum(y==3))/len(y) 
-    pclass4=float(sum(y==4))/len(y) 
-    pclass5=float(sum(y==5))/len(y)
-    prior = [pclass1, pclass2, pclass3, pclass4, pclass5]
-    index=0
-    for i in y:
-        if i==1:
-            class1.append(index)
-        elif i==2:
-            class2.append(index)
-        elif i==3:
-            class3.append(index)
-        elif i==4:
-            class4.append(index)
-        else:
-            class5.append(index)
-        index=index+1
-            
-    labels = np.array([class1,class2,class3,class4,class5])
-    total_class1= sum(sum(X[labels[0]]))
-    total_class2= sum(sum(X[labels[1]]))
-    total_class3= sum(sum(X[labels[2]]))
-    total_class4= sum(sum(X[labels[3]]))
-    total_class5= sum(sum(X[labels[4]]))
-  
-    for i in range(no_features):
-        sum_freq1 = np.sum(X[labels[0],i])
-        sum_freq2 = np.sum(X[labels[1],i])
-        sum_freq3 = np.sum(X[labels[2],i])
-        sum_freq4 = np.sum(X[labels[3],i])
-        sum_freq5 = np.sum(X[labels[4],i])
-        w[0][i] = (sum_freq1 + 1.0) /   (total_class1+no_features+1)
-        w[1][i] = (sum_freq2 + 1.0) /   (total_class2+no_features+1)
-        w[2][i] = (sum_freq3 + 1.0) /   (total_class3+no_features+1)
-        w[3][i] = (sum_freq4 + 1.0) /  (total_class4+no_features+1)
-        w[4][i] = (sum_freq5 + 1.0) /  (total_class5+no_features+1)
+    prior = []
+    for i in range(no_classes):
+        prior.append(float(sum(y==i+1))/len(y)) 
+
+    index = 0
+    labels = []
+    for i in range(no_classes):
+        labels.append([])
+    #labels = [[]] * no_classes
+    classes = np.array(range(no_classes)) + 1
+    
+    y = np.array(y)
+    for i in range(len(y)):
+        #print "######### printing for i : " , i , "  #########################"
+        #print y[i]
+        #print labels[y[i] -1]
+        #print labels
+        labels[y[i] - 1].append(i)
+    
+    labels = np.array(labels)
+    
+
+    #for i in range(no_features):
+    for j in range(no_classes):
+            #sum_freq = np.sum(X[labels[j],i])
+            #w[j][i] = (sum_freq1 + 1.0) /   (total_class1+no_features+1)
+        w[j, :] = (np.sum(X[labels[j]],axis=0) + 1.0) / (sum(sum(X[labels[j]])) + no_features)#total_class[j]
+
     return w, prior
     
 def prob_calc(X_test, w, prior):
+    no_classes = len(w)
     no_features = len(X_test[0])
-    prob =  np.ones((len(X_test),5))
-    for index in range(5):#5 classes
+    prob =  np.ones((len(X_test), no_classes))
+    for index in range(no_classes):#5 classes
         for review in range(len(X_test)): #no of test reviews
             for feature in range(no_features): #features
                 if(X_test[review][feature] == 0.0):
@@ -64,13 +55,8 @@ def prob_calc(X_test, w, prior):
                 else:
                     prob[review][index] = prob[review][index] * (w[index][feature] * X_test[review][feature] )
 
-    for i in range(len(prob)):
-        np.sum(prob[i][:])
-        prob[i][0]= (prob[i][0]*prior[0])
-        prob[i][1]= (prob[i][1]*prior[1])
-        prob[i][2]= (prob[i][2]*prior[2])
-        prob[i][3]= (prob[i][3]*prior[3])
-        prob[i][4]= (prob[i][4]*prior[4])
+    prob = np.multiply(prob, prior)
+   
         
     return prob
 
@@ -78,28 +64,16 @@ def predict(X_test, w, prior):
     prob = prob_calc(X_test,w, prior)
     pred = np.zeros(len(X_test))
     print prob.shape
-    #pred = (np.argmax(prob, axis=1)+1)
-    for i in range(len(prob)):
-        pred[i] = prob[i][:].argmax(axis=0)+1
+    pred = (np.argmax(prob, axis=1)+1)
+    #for i in range(len(prob)):
+        #pred[i] = prob[i][:].argmax(axis=0)+1
         
     prob_normal = np.zeros((len(prob),1))
     inf = float("inf")
-    for i in range(len(prob)):
-        normalizer=np.sum(prob[i][:])
-        if prob[i][pred[i]-1]== inf or prob[i][pred[i]-1]== -inf :
-            prob_normal[i]=1
-        else:
-            prob_normal[i]=prob[i][pred[i]-1]/normalizer
-            if(prob_normal[i] > 1):
-                print prob[i][:]
+    prob /= prob.sum(axis=1)[:, None]
     
-    for i in range(len(prob)):
-        if math.isnan(prob_normal[i]):
-            prob_normal[i]=0
-    max =  np.max(prob, axis=1)
-    print prob[max <0]
-    print len(max[max<0])
-    return pred, prob_normal
+   
+    return pred, prob
 
 def pred_ternary(X_test, w, prior):
     pred, prob = predict(X_test, w, prior)
